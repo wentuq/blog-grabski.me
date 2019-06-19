@@ -1,0 +1,44 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>
+            {% if site.author %}
+              {{ site.author | escape }}
+            {% else %}
+              {{ site.title | escape }}
+            {% endif %}
+            </li>
+            {% if site.email %}
+            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          <li><a href="https://www.facebook.com/grabski.me"><i class='icon icon-facebook-official'></i>facebook</a></li>
+          <li><a href="https://www.flickr.com/photos/wentuq/"><i class='icon icon-flickr'></i>flickr</a></li>
+          <li><a href="https://www.instagram.com/grabski.me/"><i class='icon icon-instagram'></i>instagram</a></li>
+          <li><a href="https://github.com/wentuq"><i class='icon icon-github-circled'></i>github</a></li>
+          
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+          {% if page.photos_license %}
+            {% include photos_license.html %}
+          {% endif %}
+        <p>{{ site.description | escape }}</p>
+
+      </div>
+    </div>
+
+  </div>
+
+</footer>

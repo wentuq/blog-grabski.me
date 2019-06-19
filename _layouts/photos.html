@@ -1,0 +1,43 @@
+---
+layout: default
+---
+<div id="photos">
+<header class="post-header">
+  <h1 class="post-title"><span id="title">{{ page.title | escape }}</span><span id="description">{{page.description}}</span></h1>
+</header>
+
+  {% if site.data.photos %}
+ {% assign sorted_photos = site.photos | sort: 'order' %}
+  {% for item in sorted_photos %} {% assign itemPrimaryPhoto = site.data.photos.photosets[item.set_id].primaryphoto %}
+  <div id="id{{item.set_id}}" class="primary-photo">
+    <div>{{photopost}}</div>
+    <a href="{{ item.url }}">
+      <img src="{{itemPrimaryPhoto.sizes['Large'].local-source}}" />
+      <h4>
+
+          <span>{{item.title}} {% if item.description %}
+            <h5>
+              <i>{{site.data.photos.photosets[item.set_id].description | strip_html }}</i>
+            </h5>
+            {%endif %}
+          </span>
+      </h4>
+    </a>
+  </div>
+  {% endfor %}
+  {% endif %}
+
+  <h2>All photos <i class="newest">newest first</i></h2>
+    <div id="lightgallery" class="mini-photos">
+      {% for photo in site.data.photos.sorted_photos %}
+      <a href="{{photo[1].max_photo.local-source}}" data-sub-html="{{photo[1].title}}">
+      <img src="{{photo[1].sizes['Large Square'].local-source}}" /></a>{% endfor %}
+    </div>
+</div>
+<script src="{{site.baseurl}}/lightgallery.js/dist/js/lightgallery.min.js"></script>
+
+
+<script type="text/javascript">
+    lightGallery(document.getElementById('lightgallery'));
+</script>
+
