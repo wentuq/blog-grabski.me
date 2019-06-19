@@ -60,3 +60,4 @@ exclude:
    - vendor/ruby/
    - photosets.txt
    - yaml.rb
+   
