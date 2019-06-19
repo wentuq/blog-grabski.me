@@ -23,62 +23,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/4338/37323278452_988ed9c769_s.jpg
-            local-source: "/assets/photos/72157661426088248_37323278452_square.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37323278452_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/4338/37323278452_988ed9c769_q.jpg
-            local-source: "/assets/photos/72157661426088248_37323278452_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37323278452_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/4338/37323278452_988ed9c769_t.jpg
-            local-source: "/assets/photos/72157661426088248_37323278452_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37323278452_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/4338/37323278452_988ed9c769_m.jpg
-            local-source: "/assets/photos/72157661426088248_37323278452_small.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37323278452_small.jpg"
           Small 320:
             width: 320
             height: 213
             source: https://live.staticflickr.com/4338/37323278452_988ed9c769_n.jpg
-            local-source: "/assets/photos/72157661426088248_37323278452_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37323278452_small-320.jpg"
           Medium:
             width: 500
             height: 333
             source: https://live.staticflickr.com/4338/37323278452_988ed9c769.jpg
-            local-source: "/assets/photos/72157661426088248_37323278452_medium.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37323278452_medium.jpg"
           Medium 640:
             width: 640
             height: 427
             source: https://live.staticflickr.com/4338/37323278452_988ed9c769_z.jpg
-            local-source: "/assets/photos/72157661426088248_37323278452_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37323278452_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/4338/37323278452_988ed9c769_c.jpg
-            local-source: "/assets/photos/72157661426088248_37323278452_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37323278452_medium-800.jpg"
           Large:
             width: 1024
             height: 683
             source: https://live.staticflickr.com/4338/37323278452_988ed9c769_b.jpg
-            local-source: "/assets/photos/72157661426088248_37323278452_large.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37323278452_large.jpg"
           Large 1600:
             width: 1600
             height: 1067
             source: https://live.staticflickr.com/4338/37323278452_ffd1f3f33c_h.jpg
-            local-source: "/assets/photos/72157661426088248_37323278452_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37323278452_large-1600.jpg"
           Large 2048: &1
             width: 2048
             height: 1365
             source: https://live.staticflickr.com/4338/37323278452_1c7b4b25c1_k.jpg
-            local-source: "/assets/photos/72157661426088248_37323278452_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37323278452_large-2048.jpg"
           Original:
             width: 6000
             height: 4000
             source: https://live.staticflickr.com/4338/37323278452_811edf4535_o.jpg
-            local-source: "/assets/photos/72157661426088248_37323278452_original.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37323278452_original.jpg"
         max_photo: *1
       37129165904: &42 !ruby/object:FlickrPhoto
         title: Only travel a-head
@@ -92,62 +92,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/4506/37129165904_8249c4723c_s.jpg
-            local-source: "/assets/photos/72157661426088248_37129165904_square.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37129165904_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/4506/37129165904_8249c4723c_q.jpg
-            local-source: "/assets/photos/72157661426088248_37129165904_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37129165904_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/4506/37129165904_8249c4723c_t.jpg
-            local-source: "/assets/photos/72157661426088248_37129165904_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37129165904_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/4506/37129165904_8249c4723c_m.jpg
-            local-source: "/assets/photos/72157661426088248_37129165904_small.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37129165904_small.jpg"
           Small 320:
             width: 320
             height: 213
             source: https://live.staticflickr.com/4506/37129165904_8249c4723c_n.jpg
-            local-source: "/assets/photos/72157661426088248_37129165904_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37129165904_small-320.jpg"
           Medium:
             width: 500
             height: 333
             source: https://live.staticflickr.com/4506/37129165904_8249c4723c.jpg
-            local-source: "/assets/photos/72157661426088248_37129165904_medium.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37129165904_medium.jpg"
           Medium 640:
             width: 640
             height: 427
             source: https://live.staticflickr.com/4506/37129165904_8249c4723c_z.jpg
-            local-source: "/assets/photos/72157661426088248_37129165904_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37129165904_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/4506/37129165904_8249c4723c_c.jpg
-            local-source: "/assets/photos/72157661426088248_37129165904_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37129165904_medium-800.jpg"
           Large:
             width: 1024
             height: 683
             source: https://live.staticflickr.com/4506/37129165904_8249c4723c_b.jpg
-            local-source: "/assets/photos/72157661426088248_37129165904_large.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37129165904_large.jpg"
           Large 1600:
             width: 1600
             height: 1067
             source: https://live.staticflickr.com/4506/37129165904_84d9a610e1_h.jpg
-            local-source: "/assets/photos/72157661426088248_37129165904_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37129165904_large-1600.jpg"
           Large 2048: &2
             width: 2048
             height: 1365
             source: https://live.staticflickr.com/4506/37129165904_f6115d324a_k.jpg
-            local-source: "/assets/photos/72157661426088248_37129165904_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37129165904_large-2048.jpg"
           Original:
             width: 6000
             height: 4000
             source: https://live.staticflickr.com/4506/37129165904_df28a95012_o.jpg
-            local-source: "/assets/photos/72157661426088248_37129165904_original.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37129165904_original.jpg"
         max_photo: *2
       37807522192: &43 !ruby/object:FlickrPhoto
         title: Minimalism
@@ -161,62 +161,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/4461/37807522192_27b2b20af8_s.jpg
-            local-source: "/assets/photos/72157661426088248_37807522192_square.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37807522192_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/4461/37807522192_27b2b20af8_q.jpg
-            local-source: "/assets/photos/72157661426088248_37807522192_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37807522192_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/4461/37807522192_27b2b20af8_t.jpg
-            local-source: "/assets/photos/72157661426088248_37807522192_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37807522192_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/4461/37807522192_27b2b20af8_m.jpg
-            local-source: "/assets/photos/72157661426088248_37807522192_small.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37807522192_small.jpg"
           Small 320:
             width: 320
             height: 213
             source: https://live.staticflickr.com/4461/37807522192_27b2b20af8_n.jpg
-            local-source: "/assets/photos/72157661426088248_37807522192_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37807522192_small-320.jpg"
           Medium:
             width: 500
             height: 333
             source: https://live.staticflickr.com/4461/37807522192_27b2b20af8.jpg
-            local-source: "/assets/photos/72157661426088248_37807522192_medium.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37807522192_medium.jpg"
           Medium 640:
             width: 640
             height: 427
             source: https://live.staticflickr.com/4461/37807522192_27b2b20af8_z.jpg
-            local-source: "/assets/photos/72157661426088248_37807522192_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37807522192_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/4461/37807522192_27b2b20af8_c.jpg
-            local-source: "/assets/photos/72157661426088248_37807522192_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37807522192_medium-800.jpg"
           Large:
             width: 1024
             height: 683
             source: https://live.staticflickr.com/4461/37807522192_27b2b20af8_b.jpg
-            local-source: "/assets/photos/72157661426088248_37807522192_large.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37807522192_large.jpg"
           Large 1600:
             width: 1600
             height: 1067
             source: https://live.staticflickr.com/4461/37807522192_dbb0e1f079_h.jpg
-            local-source: "/assets/photos/72157661426088248_37807522192_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37807522192_large-1600.jpg"
           Large 2048: &3
             width: 2048
             height: 1365
             source: https://live.staticflickr.com/4461/37807522192_613b575a70_k.jpg
-            local-source: "/assets/photos/72157661426088248_37807522192_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37807522192_large-2048.jpg"
           Original:
             width: 6000
             height: 4000
             source: https://live.staticflickr.com/4461/37807522192_e21b80a506_o.jpg
-            local-source: "/assets/photos/72157661426088248_37807522192_original.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37807522192_original.jpg"
         max_photo: *3
       37274383804: &41 !ruby/object:FlickrPhoto
         title: Sky is bleeding.
@@ -232,62 +232,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/4508/37274383804_ee7bf12a14_s.jpg
-            local-source: "/assets/photos/72157661426088248_37274383804_square.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37274383804_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/4508/37274383804_ee7bf12a14_q.jpg
-            local-source: "/assets/photos/72157661426088248_37274383804_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37274383804_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/4508/37274383804_ee7bf12a14_t.jpg
-            local-source: "/assets/photos/72157661426088248_37274383804_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37274383804_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/4508/37274383804_ee7bf12a14_m.jpg
-            local-source: "/assets/photos/72157661426088248_37274383804_small.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37274383804_small.jpg"
           Small 320:
             width: 320
             height: 213
             source: https://live.staticflickr.com/4508/37274383804_ee7bf12a14_n.jpg
-            local-source: "/assets/photos/72157661426088248_37274383804_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37274383804_small-320.jpg"
           Medium:
             width: 500
             height: 333
             source: https://live.staticflickr.com/4508/37274383804_ee7bf12a14.jpg
-            local-source: "/assets/photos/72157661426088248_37274383804_medium.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37274383804_medium.jpg"
           Medium 640:
             width: 640
             height: 427
             source: https://live.staticflickr.com/4508/37274383804_ee7bf12a14_z.jpg
-            local-source: "/assets/photos/72157661426088248_37274383804_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37274383804_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/4508/37274383804_ee7bf12a14_c.jpg
-            local-source: "/assets/photos/72157661426088248_37274383804_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37274383804_medium-800.jpg"
           Large:
             width: 1024
             height: 683
             source: https://live.staticflickr.com/4508/37274383804_ee7bf12a14_b.jpg
-            local-source: "/assets/photos/72157661426088248_37274383804_large.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37274383804_large.jpg"
           Large 1600:
             width: 1600
             height: 1067
             source: https://live.staticflickr.com/4508/37274383804_8428e9aa3f_h.jpg
-            local-source: "/assets/photos/72157661426088248_37274383804_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37274383804_large-1600.jpg"
           Large 2048: &4
             width: 2048
             height: 1365
             source: https://live.staticflickr.com/4508/37274383804_ca96bcae1b_k.jpg
-            local-source: "/assets/photos/72157661426088248_37274383804_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37274383804_large-2048.jpg"
           Original:
             width: 5747
             height: 3831
             source: https://live.staticflickr.com/4508/37274383804_76092df951_o.jpg
-            local-source: "/assets/photos/72157661426088248_37274383804_original.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37274383804_original.jpg"
         max_photo: *4
       38217427306: &40 !ruby/object:FlickrPhoto
         title: Give me back the nights.
@@ -304,62 +304,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/4553/38217427306_f9ba7912ef_s.jpg
-            local-source: "/assets/photos/72157661426088248_38217427306_square.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_38217427306_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/4553/38217427306_f9ba7912ef_q.jpg
-            local-source: "/assets/photos/72157661426088248_38217427306_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_38217427306_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/4553/38217427306_f9ba7912ef_t.jpg
-            local-source: "/assets/photos/72157661426088248_38217427306_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_38217427306_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/4553/38217427306_f9ba7912ef_m.jpg
-            local-source: "/assets/photos/72157661426088248_38217427306_small.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_38217427306_small.jpg"
           Small 320:
             width: 320
             height: 213
             source: https://live.staticflickr.com/4553/38217427306_f9ba7912ef_n.jpg
-            local-source: "/assets/photos/72157661426088248_38217427306_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_38217427306_small-320.jpg"
           Medium:
             width: 500
             height: 333
             source: https://live.staticflickr.com/4553/38217427306_f9ba7912ef.jpg
-            local-source: "/assets/photos/72157661426088248_38217427306_medium.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_38217427306_medium.jpg"
           Medium 640:
             width: 640
             height: 427
             source: https://live.staticflickr.com/4553/38217427306_f9ba7912ef_z.jpg
-            local-source: "/assets/photos/72157661426088248_38217427306_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_38217427306_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/4553/38217427306_f9ba7912ef_c.jpg
-            local-source: "/assets/photos/72157661426088248_38217427306_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_38217427306_medium-800.jpg"
           Large:
             width: 1024
             height: 683
             source: https://live.staticflickr.com/4553/38217427306_f9ba7912ef_b.jpg
-            local-source: "/assets/photos/72157661426088248_38217427306_large.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_38217427306_large.jpg"
           Large 1600:
             width: 1600
             height: 1067
             source: https://live.staticflickr.com/4553/38217427306_a56d4dda07_h.jpg
-            local-source: "/assets/photos/72157661426088248_38217427306_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_38217427306_large-1600.jpg"
           Large 2048: &5
             width: 2048
             height: 1365
             source: https://live.staticflickr.com/4553/38217427306_582fd2aa0a_k.jpg
-            local-source: "/assets/photos/72157661426088248_38217427306_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_38217427306_large-2048.jpg"
           Original:
             width: 5465
             height: 3643
             source: https://live.staticflickr.com/4553/38217427306_404f62cefa_o.jpg
-            local-source: "/assets/photos/72157661426088248_38217427306_original.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_38217427306_original.jpg"
         max_photo: *5
       24401204508: &38 !ruby/object:FlickrPhoto
         title: W to mi graj
@@ -373,62 +373,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/4521/24401204508_7abffd61be_s.jpg
-            local-source: "/assets/photos/72157661426088248_24401204508_square.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401204508_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/4521/24401204508_7abffd61be_q.jpg
-            local-source: "/assets/photos/72157661426088248_24401204508_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401204508_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/4521/24401204508_7abffd61be_t.jpg
-            local-source: "/assets/photos/72157661426088248_24401204508_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401204508_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/4521/24401204508_7abffd61be_m.jpg
-            local-source: "/assets/photos/72157661426088248_24401204508_small.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401204508_small.jpg"
           Small 320:
             width: 320
             height: 213
             source: https://live.staticflickr.com/4521/24401204508_7abffd61be_n.jpg
-            local-source: "/assets/photos/72157661426088248_24401204508_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401204508_small-320.jpg"
           Medium:
             width: 500
             height: 333
             source: https://live.staticflickr.com/4521/24401204508_7abffd61be.jpg
-            local-source: "/assets/photos/72157661426088248_24401204508_medium.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401204508_medium.jpg"
           Medium 640:
             width: 640
             height: 427
             source: https://live.staticflickr.com/4521/24401204508_7abffd61be_z.jpg
-            local-source: "/assets/photos/72157661426088248_24401204508_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401204508_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/4521/24401204508_7abffd61be_c.jpg
-            local-source: "/assets/photos/72157661426088248_24401204508_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401204508_medium-800.jpg"
           Large:
             width: 1024
             height: 683
             source: https://live.staticflickr.com/4521/24401204508_7abffd61be_b.jpg
-            local-source: "/assets/photos/72157661426088248_24401204508_large.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401204508_large.jpg"
           Large 1600:
             width: 1600
             height: 1067
             source: https://live.staticflickr.com/4521/24401204508_5f04449152_h.jpg
-            local-source: "/assets/photos/72157661426088248_24401204508_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401204508_large-1600.jpg"
           Large 2048: &6
             width: 2048
             height: 1365
             source: https://live.staticflickr.com/4521/24401204508_3b2d7f62ff_k.jpg
-            local-source: "/assets/photos/72157661426088248_24401204508_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401204508_large-2048.jpg"
           Original:
             width: 6000
             height: 4000
             source: https://live.staticflickr.com/4521/24401204508_d0d7395a02_o.jpg
-            local-source: "/assets/photos/72157661426088248_24401204508_original.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401204508_original.jpg"
         max_photo: *6
       24401203888: &39 !ruby/object:FlickrPhoto
         title: Happy hours <3
@@ -444,62 +444,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/4564/24401203888_1960ceaaea_s.jpg
-            local-source: "/assets/photos/72157661426088248_24401203888_square.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401203888_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/4564/24401203888_1960ceaaea_q.jpg
-            local-source: "/assets/photos/72157661426088248_24401203888_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401203888_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/4564/24401203888_1960ceaaea_t.jpg
-            local-source: "/assets/photos/72157661426088248_24401203888_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401203888_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/4564/24401203888_1960ceaaea_m.jpg
-            local-source: "/assets/photos/72157661426088248_24401203888_small.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401203888_small.jpg"
           Small 320:
             width: 320
             height: 213
             source: https://live.staticflickr.com/4564/24401203888_1960ceaaea_n.jpg
-            local-source: "/assets/photos/72157661426088248_24401203888_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401203888_small-320.jpg"
           Medium:
             width: 500
             height: 333
             source: https://live.staticflickr.com/4564/24401203888_1960ceaaea.jpg
-            local-source: "/assets/photos/72157661426088248_24401203888_medium.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401203888_medium.jpg"
           Medium 640:
             width: 640
             height: 427
             source: https://live.staticflickr.com/4564/24401203888_1960ceaaea_z.jpg
-            local-source: "/assets/photos/72157661426088248_24401203888_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401203888_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/4564/24401203888_1960ceaaea_c.jpg
-            local-source: "/assets/photos/72157661426088248_24401203888_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401203888_medium-800.jpg"
           Large:
             width: 1024
             height: 683
             source: https://live.staticflickr.com/4564/24401203888_1960ceaaea_b.jpg
-            local-source: "/assets/photos/72157661426088248_24401203888_large.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401203888_large.jpg"
           Large 1600:
             width: 1600
             height: 1067
             source: https://live.staticflickr.com/4564/24401203888_f59a434c19_h.jpg
-            local-source: "/assets/photos/72157661426088248_24401203888_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401203888_large-1600.jpg"
           Large 2048: &7
             width: 2048
             height: 1365
             source: https://live.staticflickr.com/4564/24401203888_b0d51211c0_k.jpg
-            local-source: "/assets/photos/72157661426088248_24401203888_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401203888_large-2048.jpg"
           Original:
             width: 6000
             height: 4000
             source: https://live.staticflickr.com/4564/24401203888_caaa82cdf0_o.jpg
-            local-source: "/assets/photos/72157661426088248_24401203888_original.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_24401203888_original.jpg"
         max_photo: *7
       36684578383: &45 !ruby/object:FlickrPhoto
         title: Hit the road Jack!
@@ -513,62 +513,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/4436/36684578383_202690bef2_s.jpg
-            local-source: "/assets/photos/72157661426088248_36684578383_square.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_36684578383_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/4436/36684578383_202690bef2_q.jpg
-            local-source: "/assets/photos/72157661426088248_36684578383_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_36684578383_large-square.jpg"
           Thumbnail:
             width: 67
             height: 100
             source: https://live.staticflickr.com/4436/36684578383_202690bef2_t.jpg
-            local-source: "/assets/photos/72157661426088248_36684578383_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_36684578383_thumbnail.jpg"
           Small:
             width: 160
             height: 240
             source: https://live.staticflickr.com/4436/36684578383_202690bef2_m.jpg
-            local-source: "/assets/photos/72157661426088248_36684578383_small.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_36684578383_small.jpg"
           Small 320:
             width: 213
             height: 320
             source: https://live.staticflickr.com/4436/36684578383_202690bef2_n.jpg
-            local-source: "/assets/photos/72157661426088248_36684578383_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_36684578383_small-320.jpg"
           Medium:
             width: 333
             height: 500
             source: https://live.staticflickr.com/4436/36684578383_202690bef2.jpg
-            local-source: "/assets/photos/72157661426088248_36684578383_medium.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_36684578383_medium.jpg"
           Medium 640:
             width: 427
             height: 640
             source: https://live.staticflickr.com/4436/36684578383_202690bef2_z.jpg
-            local-source: "/assets/photos/72157661426088248_36684578383_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_36684578383_medium-640.jpg"
           Medium 800:
             width: 534
             height: 800
             source: https://live.staticflickr.com/4436/36684578383_202690bef2_c.jpg
-            local-source: "/assets/photos/72157661426088248_36684578383_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_36684578383_medium-800.jpg"
           Large:
             width: 683
             height: 1024
             source: https://live.staticflickr.com/4436/36684578383_202690bef2_b.jpg
-            local-source: "/assets/photos/72157661426088248_36684578383_large.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_36684578383_large.jpg"
           Large 1600:
             width: 1067
             height: 1600
             source: https://live.staticflickr.com/4436/36684578383_c47af0f988_h.jpg
-            local-source: "/assets/photos/72157661426088248_36684578383_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_36684578383_large-1600.jpg"
           Large 2048: &8
             width: 1365
             height: 2048
             source: https://live.staticflickr.com/4436/36684578383_7900d4183e_k.jpg
-            local-source: "/assets/photos/72157661426088248_36684578383_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_36684578383_large-2048.jpg"
           Original:
             width: 4000
             height: 6000
             source: https://live.staticflickr.com/4436/36684578383_7612cc9275_o.jpg
-            local-source: "/assets/photos/72157661426088248_36684578383_original.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_36684578383_original.jpg"
         max_photo: *8
       37097118150: &46 !ruby/object:FlickrPhoto
         title: Latarnik
@@ -582,62 +582,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/4402/37097118150_e82fc57102_s.jpg
-            local-source: "/assets/photos/72157661426088248_37097118150_square.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37097118150_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/4402/37097118150_e82fc57102_q.jpg
-            local-source: "/assets/photos/72157661426088248_37097118150_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37097118150_large-square.jpg"
           Thumbnail:
             width: 67
             height: 100
             source: https://live.staticflickr.com/4402/37097118150_e82fc57102_t.jpg
-            local-source: "/assets/photos/72157661426088248_37097118150_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37097118150_thumbnail.jpg"
           Small:
             width: 160
             height: 240
             source: https://live.staticflickr.com/4402/37097118150_e82fc57102_m.jpg
-            local-source: "/assets/photos/72157661426088248_37097118150_small.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37097118150_small.jpg"
           Small 320:
             width: 213
             height: 320
             source: https://live.staticflickr.com/4402/37097118150_e82fc57102_n.jpg
-            local-source: "/assets/photos/72157661426088248_37097118150_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37097118150_small-320.jpg"
           Medium:
             width: 333
             height: 500
             source: https://live.staticflickr.com/4402/37097118150_e82fc57102.jpg
-            local-source: "/assets/photos/72157661426088248_37097118150_medium.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37097118150_medium.jpg"
           Medium 640:
             width: 427
             height: 640
             source: https://live.staticflickr.com/4402/37097118150_e82fc57102_z.jpg
-            local-source: "/assets/photos/72157661426088248_37097118150_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37097118150_medium-640.jpg"
           Medium 800:
             width: 534
             height: 800
             source: https://live.staticflickr.com/4402/37097118150_e82fc57102_c.jpg
-            local-source: "/assets/photos/72157661426088248_37097118150_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37097118150_medium-800.jpg"
           Large:
             width: 683
             height: 1024
             source: https://live.staticflickr.com/4402/37097118150_e82fc57102_b.jpg
-            local-source: "/assets/photos/72157661426088248_37097118150_large.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37097118150_large.jpg"
           Large 1600:
             width: 1067
             height: 1600
             source: https://live.staticflickr.com/4402/37097118150_9a77a8e1ab_h.jpg
-            local-source: "/assets/photos/72157661426088248_37097118150_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37097118150_large-1600.jpg"
           Large 2048: &9
             width: 1365
             height: 2048
             source: https://live.staticflickr.com/4402/37097118150_341c496103_k.jpg
-            local-source: "/assets/photos/72157661426088248_37097118150_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37097118150_large-2048.jpg"
           Original:
             width: 4000
             height: 6000
             source: https://live.staticflickr.com/4402/37097118150_f2bb7bafe7_o.jpg
-            local-source: "/assets/photos/72157661426088248_37097118150_original.jpg"
+            local-source: "/assets/flickrphotos/72157661426088248_37097118150_original.jpg"
         max_photo: *9
     primaryphoto: *10
   72157627416170731: !ruby/object:FlickrSet
@@ -660,62 +660,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/4459/36684692793_c9d266673e_s.jpg
-            local-source: "/assets/photos/72157627416170731_36684692793_square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_36684692793_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/4459/36684692793_c9d266673e_q.jpg
-            local-source: "/assets/photos/72157627416170731_36684692793_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_36684692793_large-square.jpg"
           Thumbnail:
             width: 80
             height: 100
             source: https://live.staticflickr.com/4459/36684692793_c9d266673e_t.jpg
-            local-source: "/assets/photos/72157627416170731_36684692793_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_36684692793_thumbnail.jpg"
           Small:
             width: 192
             height: 240
             source: https://live.staticflickr.com/4459/36684692793_c9d266673e_m.jpg
-            local-source: "/assets/photos/72157627416170731_36684692793_small.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_36684692793_small.jpg"
           Small 320:
             width: 256
             height: 320
             source: https://live.staticflickr.com/4459/36684692793_c9d266673e_n.jpg
-            local-source: "/assets/photos/72157627416170731_36684692793_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_36684692793_small-320.jpg"
           Medium:
             width: 400
             height: 500
             source: https://live.staticflickr.com/4459/36684692793_c9d266673e.jpg
-            local-source: "/assets/photos/72157627416170731_36684692793_medium.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_36684692793_medium.jpg"
           Medium 640:
             width: 512
             height: 640
             source: https://live.staticflickr.com/4459/36684692793_c9d266673e_z.jpg
-            local-source: "/assets/photos/72157627416170731_36684692793_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_36684692793_medium-640.jpg"
           Medium 800:
             width: 640
             height: 800
             source: https://live.staticflickr.com/4459/36684692793_c9d266673e_c.jpg
-            local-source: "/assets/photos/72157627416170731_36684692793_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_36684692793_medium-800.jpg"
           Large:
             width: 819
             height: 1024
             source: https://live.staticflickr.com/4459/36684692793_c9d266673e_b.jpg
-            local-source: "/assets/photos/72157627416170731_36684692793_large.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_36684692793_large.jpg"
           Large 1600:
             width: 1280
             height: 1600
             source: https://live.staticflickr.com/4459/36684692793_929827f2c2_h.jpg
-            local-source: "/assets/photos/72157627416170731_36684692793_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_36684692793_large-1600.jpg"
           Large 2048: &11
             width: 1638
             height: 2048
             source: https://live.staticflickr.com/4459/36684692793_fd2dc4a8c7_k.jpg
-            local-source: "/assets/photos/72157627416170731_36684692793_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_36684692793_large-2048.jpg"
           Original:
             width: 3199
             height: 4000
             source: https://live.staticflickr.com/4459/36684692793_cbd458f734_o.jpg
-            local-source: "/assets/photos/72157627416170731_36684692793_original.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_36684692793_original.jpg"
         max_photo: *11
       29032973094: &48 !ruby/object:FlickrPhoto
         title: Moonhead
@@ -731,62 +731,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/8008/29032973094_9a794d0341_s.jpg
-            local-source: "/assets/photos/72157627416170731_29032973094_square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29032973094_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/8008/29032973094_9a794d0341_q.jpg
-            local-source: "/assets/photos/72157627416170731_29032973094_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29032973094_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/8008/29032973094_9a794d0341_t.jpg
-            local-source: "/assets/photos/72157627416170731_29032973094_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29032973094_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/8008/29032973094_9a794d0341_m.jpg
-            local-source: "/assets/photos/72157627416170731_29032973094_small.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29032973094_small.jpg"
           Small 320:
             width: 320
             height: 213
             source: https://live.staticflickr.com/8008/29032973094_9a794d0341_n.jpg
-            local-source: "/assets/photos/72157627416170731_29032973094_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29032973094_small-320.jpg"
           Medium:
             width: 500
             height: 333
             source: https://live.staticflickr.com/8008/29032973094_9a794d0341.jpg
-            local-source: "/assets/photos/72157627416170731_29032973094_medium.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29032973094_medium.jpg"
           Medium 640:
             width: 640
             height: 427
             source: https://live.staticflickr.com/8008/29032973094_9a794d0341_z.jpg
-            local-source: "/assets/photos/72157627416170731_29032973094_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29032973094_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/8008/29032973094_9a794d0341_c.jpg
-            local-source: "/assets/photos/72157627416170731_29032973094_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29032973094_medium-800.jpg"
           Large:
             width: 1024
             height: 683
             source: https://live.staticflickr.com/8008/29032973094_9a794d0341_b.jpg
-            local-source: "/assets/photos/72157627416170731_29032973094_large.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29032973094_large.jpg"
           Large 1600:
             width: 1600
             height: 1067
             source: https://live.staticflickr.com/8008/29032973094_75bcb40049_h.jpg
-            local-source: "/assets/photos/72157627416170731_29032973094_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29032973094_large-1600.jpg"
           Large 2048: &12
             width: 2048
             height: 1365
             source: https://live.staticflickr.com/8008/29032973094_fd80ffd8e4_k.jpg
-            local-source: "/assets/photos/72157627416170731_29032973094_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29032973094_large-2048.jpg"
           Original:
             width: 5774
             height: 3849
             source: https://live.staticflickr.com/8008/29032973094_85abac0ac9_o.jpg
-            local-source: "/assets/photos/72157627416170731_29032973094_original.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29032973094_original.jpg"
         max_photo: *12
       29561059441: &50 !ruby/object:FlickrPhoto
         title: 'Passion #1'
@@ -800,62 +800,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/8089/29561059441_928438759b_s.jpg
-            local-source: "/assets/photos/72157627416170731_29561059441_square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29561059441_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/8089/29561059441_928438759b_q.jpg
-            local-source: "/assets/photos/72157627416170731_29561059441_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29561059441_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/8089/29561059441_928438759b_t.jpg
-            local-source: "/assets/photos/72157627416170731_29561059441_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29561059441_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/8089/29561059441_928438759b_m.jpg
-            local-source: "/assets/photos/72157627416170731_29561059441_small.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29561059441_small.jpg"
           Small 320:
             width: 320
             height: 213
             source: https://live.staticflickr.com/8089/29561059441_928438759b_n.jpg
-            local-source: "/assets/photos/72157627416170731_29561059441_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29561059441_small-320.jpg"
           Medium:
             width: 500
             height: 333
             source: https://live.staticflickr.com/8089/29561059441_928438759b.jpg
-            local-source: "/assets/photos/72157627416170731_29561059441_medium.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29561059441_medium.jpg"
           Medium 640:
             width: 640
             height: 427
             source: https://live.staticflickr.com/8089/29561059441_928438759b_z.jpg
-            local-source: "/assets/photos/72157627416170731_29561059441_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29561059441_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/8089/29561059441_928438759b_c.jpg
-            local-source: "/assets/photos/72157627416170731_29561059441_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29561059441_medium-800.jpg"
           Large:
             width: 1024
             height: 683
             source: https://live.staticflickr.com/8089/29561059441_928438759b_b.jpg
-            local-source: "/assets/photos/72157627416170731_29561059441_large.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29561059441_large.jpg"
           Large 1600:
             width: 1600
             height: 1067
             source: https://live.staticflickr.com/8089/29561059441_ad415b5909_h.jpg
-            local-source: "/assets/photos/72157627416170731_29561059441_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29561059441_large-1600.jpg"
           Large 2048: &13
             width: 2048
             height: 1365
             source: https://live.staticflickr.com/8089/29561059441_e4bd7b634b_k.jpg
-            local-source: "/assets/photos/72157627416170731_29561059441_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29561059441_large-2048.jpg"
           Original:
             width: 6000
             height: 4000
             source: https://live.staticflickr.com/8089/29561059441_8aabe74828_o.jpg
-            local-source: "/assets/photos/72157627416170731_29561059441_original.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29561059441_original.jpg"
         max_photo: *13
       28879497245: &59 !ruby/object:FlickrPhoto
         title: New haircut, new lens also
@@ -869,62 +869,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/8697/28879497245_8622f04553_s.jpg
-            local-source: "/assets/photos/72157627416170731_28879497245_square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28879497245_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/8697/28879497245_8622f04553_q.jpg
-            local-source: "/assets/photos/72157627416170731_28879497245_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28879497245_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/8697/28879497245_8622f04553_t.jpg
-            local-source: "/assets/photos/72157627416170731_28879497245_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28879497245_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/8697/28879497245_8622f04553_m.jpg
-            local-source: "/assets/photos/72157627416170731_28879497245_small.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28879497245_small.jpg"
           Small 320:
             width: 320
             height: 213
             source: https://live.staticflickr.com/8697/28879497245_8622f04553_n.jpg
-            local-source: "/assets/photos/72157627416170731_28879497245_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28879497245_small-320.jpg"
           Medium:
             width: 500
             height: 333
             source: https://live.staticflickr.com/8697/28879497245_8622f04553.jpg
-            local-source: "/assets/photos/72157627416170731_28879497245_medium.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28879497245_medium.jpg"
           Medium 640:
             width: 640
             height: 427
             source: https://live.staticflickr.com/8697/28879497245_8622f04553_z.jpg
-            local-source: "/assets/photos/72157627416170731_28879497245_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28879497245_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/8697/28879497245_8622f04553_c.jpg
-            local-source: "/assets/photos/72157627416170731_28879497245_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28879497245_medium-800.jpg"
           Large:
             width: 1024
             height: 683
             source: https://live.staticflickr.com/8697/28879497245_8622f04553_b.jpg
-            local-source: "/assets/photos/72157627416170731_28879497245_large.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28879497245_large.jpg"
           Large 1600:
             width: 1600
             height: 1067
             source: https://live.staticflickr.com/8697/28879497245_3ccb9bd191_h.jpg
-            local-source: "/assets/photos/72157627416170731_28879497245_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28879497245_large-1600.jpg"
           Large 2048: &14
             width: 2048
             height: 1365
             source: https://live.staticflickr.com/8697/28879497245_a28e448621_k.jpg
-            local-source: "/assets/photos/72157627416170731_28879497245_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28879497245_large-2048.jpg"
           Original:
             width: 6000
             height: 4000
             source: https://live.staticflickr.com/8697/28879497245_f18d1438dd_o.jpg
-            local-source: "/assets/photos/72157627416170731_28879497245_original.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28879497245_original.jpg"
         max_photo: *14
       28246982945: &61 !ruby/object:FlickrPhoto
         title: Collage Kasia K
@@ -940,62 +940,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/8585/28246982945_8c6163a9d0_s.jpg
-            local-source: "/assets/photos/72157627416170731_28246982945_square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28246982945_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/8585/28246982945_8c6163a9d0_q.jpg
-            local-source: "/assets/photos/72157627416170731_28246982945_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28246982945_large-square.jpg"
           Thumbnail:
             width: 100
             height: 71
             source: https://live.staticflickr.com/8585/28246982945_8c6163a9d0_t.jpg
-            local-source: "/assets/photos/72157627416170731_28246982945_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28246982945_thumbnail.jpg"
           Small:
             width: 240
             height: 170
             source: https://live.staticflickr.com/8585/28246982945_8c6163a9d0_m.jpg
-            local-source: "/assets/photos/72157627416170731_28246982945_small.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28246982945_small.jpg"
           Small 320:
             width: 320
             height: 226
             source: https://live.staticflickr.com/8585/28246982945_8c6163a9d0_n.jpg
-            local-source: "/assets/photos/72157627416170731_28246982945_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28246982945_small-320.jpg"
           Medium:
             width: 500
             height: 354
             source: https://live.staticflickr.com/8585/28246982945_8c6163a9d0.jpg
-            local-source: "/assets/photos/72157627416170731_28246982945_medium.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28246982945_medium.jpg"
           Medium 640:
             width: 640
             height: 453
             source: https://live.staticflickr.com/8585/28246982945_8c6163a9d0_z.jpg
-            local-source: "/assets/photos/72157627416170731_28246982945_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28246982945_medium-640.jpg"
           Medium 800:
             width: 800
             height: 566
             source: https://live.staticflickr.com/8585/28246982945_8c6163a9d0_c.jpg
-            local-source: "/assets/photos/72157627416170731_28246982945_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28246982945_medium-800.jpg"
           Large:
             width: 1024
             height: 724
             source: https://live.staticflickr.com/8585/28246982945_8c6163a9d0_b.jpg
-            local-source: "/assets/photos/72157627416170731_28246982945_large.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28246982945_large.jpg"
           Large 1600:
             width: 1600
             height: 1131
             source: https://live.staticflickr.com/8585/28246982945_837bf18fb3_h.jpg
-            local-source: "/assets/photos/72157627416170731_28246982945_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28246982945_large-1600.jpg"
           Large 2048: &15
             width: 2048
             height: 1447
             source: https://live.staticflickr.com/8585/28246982945_526733fdb0_k.jpg
-            local-source: "/assets/photos/72157627416170731_28246982945_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28246982945_large-2048.jpg"
           Original:
             width: 7016
             height: 4958
             source: https://live.staticflickr.com/8585/28246982945_44c791b87b_o.jpg
-            local-source: "/assets/photos/72157627416170731_28246982945_original.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28246982945_original.jpg"
         max_photo: *15
       28213152366: &60 !ruby/object:FlickrPhoto
         title: street theater
@@ -1009,62 +1009,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/8732/28213152366_1254ba7a2a_s.jpg
-            local-source: "/assets/photos/72157627416170731_28213152366_square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28213152366_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/8732/28213152366_1254ba7a2a_q.jpg
-            local-source: "/assets/photos/72157627416170731_28213152366_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28213152366_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/8732/28213152366_1254ba7a2a_t.jpg
-            local-source: "/assets/photos/72157627416170731_28213152366_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28213152366_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/8732/28213152366_1254ba7a2a_m.jpg
-            local-source: "/assets/photos/72157627416170731_28213152366_small.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28213152366_small.jpg"
           Small 320:
             width: 320
             height: 214
             source: https://live.staticflickr.com/8732/28213152366_1254ba7a2a_n.jpg
-            local-source: "/assets/photos/72157627416170731_28213152366_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28213152366_small-320.jpg"
           Medium:
             width: 500
             height: 334
             source: https://live.staticflickr.com/8732/28213152366_1254ba7a2a.jpg
-            local-source: "/assets/photos/72157627416170731_28213152366_medium.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28213152366_medium.jpg"
           Medium 640:
             width: 640
             height: 428
             source: https://live.staticflickr.com/8732/28213152366_1254ba7a2a_z.jpg
-            local-source: "/assets/photos/72157627416170731_28213152366_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28213152366_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/8732/28213152366_1254ba7a2a_c.jpg
-            local-source: "/assets/photos/72157627416170731_28213152366_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28213152366_medium-800.jpg"
           Large:
             width: 1024
             height: 684
             source: https://live.staticflickr.com/8732/28213152366_1254ba7a2a_b.jpg
-            local-source: "/assets/photos/72157627416170731_28213152366_large.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28213152366_large.jpg"
           Large 1600:
             width: 1600
             height: 1069
             source: https://live.staticflickr.com/8732/28213152366_1fb92b9120_h.jpg
-            local-source: "/assets/photos/72157627416170731_28213152366_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28213152366_large-1600.jpg"
           Large 2048: &16
             width: 2048
             height: 1368
             source: https://live.staticflickr.com/8732/28213152366_546185eeac_k.jpg
-            local-source: "/assets/photos/72157627416170731_28213152366_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28213152366_large-2048.jpg"
           Original:
             width: 2832
             height: 1892
             source: https://live.staticflickr.com/8732/28213152366_0d8e9efe1e_o.jpg
-            local-source: "/assets/photos/72157627416170731_28213152366_original.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28213152366_original.jpg"
         max_photo: *16
       28169191361: &26 !ruby/object:FlickrPhoto
         title: street theater 2
@@ -1080,62 +1080,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/7632/28169191361_1e612945b9_s.jpg
-            local-source: "/assets/photos/72157627416170731_28169191361_square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28169191361_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/7632/28169191361_1e612945b9_q.jpg
-            local-source: "/assets/photos/72157627416170731_28169191361_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28169191361_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/7632/28169191361_1e612945b9_t.jpg
-            local-source: "/assets/photos/72157627416170731_28169191361_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28169191361_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/7632/28169191361_1e612945b9_m.jpg
-            local-source: "/assets/photos/72157627416170731_28169191361_small.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28169191361_small.jpg"
           Small 320:
             width: 320
             height: 214
             source: https://live.staticflickr.com/7632/28169191361_1e612945b9_n.jpg
-            local-source: "/assets/photos/72157627416170731_28169191361_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28169191361_small-320.jpg"
           Medium:
             width: 500
             height: 334
             source: https://live.staticflickr.com/7632/28169191361_1e612945b9.jpg
-            local-source: "/assets/photos/72157627416170731_28169191361_medium.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28169191361_medium.jpg"
           Medium 640:
             width: 640
             height: 428
             source: https://live.staticflickr.com/7632/28169191361_1e612945b9_z.jpg
-            local-source: "/assets/photos/72157627416170731_28169191361_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28169191361_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/7632/28169191361_1e612945b9_c.jpg
-            local-source: "/assets/photos/72157627416170731_28169191361_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28169191361_medium-800.jpg"
           Large:
             width: 1024
             height: 684
             source: https://live.staticflickr.com/7632/28169191361_1e612945b9_b.jpg
-            local-source: "/assets/photos/72157627416170731_28169191361_large.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28169191361_large.jpg"
           Large 1600:
             width: 1600
             height: 1069
             source: https://live.staticflickr.com/7632/28169191361_de6bfa2bb6_h.jpg
-            local-source: "/assets/photos/72157627416170731_28169191361_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28169191361_large-1600.jpg"
           Large 2048: &17
             width: 2048
             height: 1368
             source: https://live.staticflickr.com/7632/28169191361_08a4ba41cd_k.jpg
-            local-source: "/assets/photos/72157627416170731_28169191361_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28169191361_large-2048.jpg"
           Original:
             width: 4240
             height: 2832
             source: https://live.staticflickr.com/7632/28169191361_69499d0f7b_o.jpg
-            local-source: "/assets/photos/72157627416170731_28169191361_original.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_28169191361_original.jpg"
         max_photo: *17
       27616880876: &62 !ruby/object:FlickrPhoto
         title: Wear it!
@@ -1149,62 +1149,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/7625/27616880876_7813461ec6_s.jpg
-            local-source: "/assets/photos/72157627416170731_27616880876_square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27616880876_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/7625/27616880876_7813461ec6_q.jpg
-            local-source: "/assets/photos/72157627416170731_27616880876_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27616880876_large-square.jpg"
           Thumbnail:
             width: 100
             height: 71
             source: https://live.staticflickr.com/7625/27616880876_7813461ec6_t.jpg
-            local-source: "/assets/photos/72157627416170731_27616880876_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27616880876_thumbnail.jpg"
           Small:
             width: 240
             height: 170
             source: https://live.staticflickr.com/7625/27616880876_7813461ec6_m.jpg
-            local-source: "/assets/photos/72157627416170731_27616880876_small.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27616880876_small.jpg"
           Small 320:
             width: 320
             height: 226
             source: https://live.staticflickr.com/7625/27616880876_7813461ec6_n.jpg
-            local-source: "/assets/photos/72157627416170731_27616880876_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27616880876_small-320.jpg"
           Medium:
             width: 500
             height: 354
             source: https://live.staticflickr.com/7625/27616880876_7813461ec6.jpg
-            local-source: "/assets/photos/72157627416170731_27616880876_medium.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27616880876_medium.jpg"
           Medium 640:
             width: 640
             height: 453
             source: https://live.staticflickr.com/7625/27616880876_7813461ec6_z.jpg
-            local-source: "/assets/photos/72157627416170731_27616880876_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27616880876_medium-640.jpg"
           Medium 800:
             width: 800
             height: 566
             source: https://live.staticflickr.com/7625/27616880876_7813461ec6_c.jpg
-            local-source: "/assets/photos/72157627416170731_27616880876_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27616880876_medium-800.jpg"
           Large:
             width: 1024
             height: 724
             source: https://live.staticflickr.com/7625/27616880876_7813461ec6_b.jpg
-            local-source: "/assets/photos/72157627416170731_27616880876_large.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27616880876_large.jpg"
           Large 1600:
             width: 1600
             height: 1131
             source: https://live.staticflickr.com/7625/27616880876_84010a1a75_h.jpg
-            local-source: "/assets/photos/72157627416170731_27616880876_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27616880876_large-1600.jpg"
           Large 2048: &18
             width: 2048
             height: 1447
             source: https://live.staticflickr.com/7625/27616880876_a9586f0d1e_k.jpg
-            local-source: "/assets/photos/72157627416170731_27616880876_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27616880876_large-2048.jpg"
           Original:
             width: 3508
             height: 2479
             source: https://live.staticflickr.com/7625/27616880876_97db734b8b_o.jpg
-            local-source: "/assets/photos/72157627416170731_27616880876_original.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27616880876_original.jpg"
         max_photo: *18
       26765357154: &63 !ruby/object:FlickrPhoto
         title: Dreamy Kama
@@ -1218,62 +1218,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/7080/26765357154_aabb0c19a1_s.jpg
-            local-source: "/assets/photos/72157627416170731_26765357154_square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26765357154_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/7080/26765357154_aabb0c19a1_q.jpg
-            local-source: "/assets/photos/72157627416170731_26765357154_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26765357154_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/7080/26765357154_aabb0c19a1_t.jpg
-            local-source: "/assets/photos/72157627416170731_26765357154_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26765357154_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/7080/26765357154_aabb0c19a1_m.jpg
-            local-source: "/assets/photos/72157627416170731_26765357154_small.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26765357154_small.jpg"
           Small 320:
             width: 320
             height: 213
             source: https://live.staticflickr.com/7080/26765357154_aabb0c19a1_n.jpg
-            local-source: "/assets/photos/72157627416170731_26765357154_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26765357154_small-320.jpg"
           Medium:
             width: 500
             height: 333
             source: https://live.staticflickr.com/7080/26765357154_aabb0c19a1.jpg
-            local-source: "/assets/photos/72157627416170731_26765357154_medium.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26765357154_medium.jpg"
           Medium 640:
             width: 640
             height: 427
             source: https://live.staticflickr.com/7080/26765357154_aabb0c19a1_z.jpg
-            local-source: "/assets/photos/72157627416170731_26765357154_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26765357154_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/7080/26765357154_aabb0c19a1_c.jpg
-            local-source: "/assets/photos/72157627416170731_26765357154_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26765357154_medium-800.jpg"
           Large:
             width: 1024
             height: 683
             source: https://live.staticflickr.com/7080/26765357154_aabb0c19a1_b.jpg
-            local-source: "/assets/photos/72157627416170731_26765357154_large.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26765357154_large.jpg"
           Large 1600:
             width: 1600
             height: 1067
             source: https://live.staticflickr.com/7080/26765357154_a81bcb3a77_h.jpg
-            local-source: "/assets/photos/72157627416170731_26765357154_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26765357154_large-1600.jpg"
           Large 2048: &19
             width: 2048
             height: 1365
             source: https://live.staticflickr.com/7080/26765357154_1a75b85022_k.jpg
-            local-source: "/assets/photos/72157627416170731_26765357154_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26765357154_large-2048.jpg"
           Original:
             width: 6000
             height: 4000
             source: https://live.staticflickr.com/7080/26765357154_c557875789_o.jpg
-            local-source: "/assets/photos/72157627416170731_26765357154_original.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26765357154_original.jpg"
         max_photo: *19
       26594787843: &64 !ruby/object:FlickrPhoto
         title: High explosives
@@ -1287,62 +1287,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/7409/26594787843_f906824f2f_s.jpg
-            local-source: "/assets/photos/72157627416170731_26594787843_square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26594787843_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/7409/26594787843_f906824f2f_q.jpg
-            local-source: "/assets/photos/72157627416170731_26594787843_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26594787843_large-square.jpg"
           Thumbnail:
             width: 100
             height: 100
             source: https://live.staticflickr.com/7409/26594787843_f906824f2f_t.jpg
-            local-source: "/assets/photos/72157627416170731_26594787843_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26594787843_thumbnail.jpg"
           Small:
             width: 240
             height: 240
             source: https://live.staticflickr.com/7409/26594787843_f906824f2f_m.jpg
-            local-source: "/assets/photos/72157627416170731_26594787843_small.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26594787843_small.jpg"
           Small 320:
             width: 320
             height: 320
             source: https://live.staticflickr.com/7409/26594787843_f906824f2f_n.jpg
-            local-source: "/assets/photos/72157627416170731_26594787843_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26594787843_small-320.jpg"
           Medium:
             width: 500
             height: 500
             source: https://live.staticflickr.com/7409/26594787843_f906824f2f.jpg
-            local-source: "/assets/photos/72157627416170731_26594787843_medium.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26594787843_medium.jpg"
           Medium 640:
             width: 640
             height: 640
             source: https://live.staticflickr.com/7409/26594787843_f906824f2f_z.jpg
-            local-source: "/assets/photos/72157627416170731_26594787843_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26594787843_medium-640.jpg"
           Medium 800:
             width: 800
             height: 800
             source: https://live.staticflickr.com/7409/26594787843_f906824f2f_c.jpg
-            local-source: "/assets/photos/72157627416170731_26594787843_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26594787843_medium-800.jpg"
           Large:
             width: 1024
             height: 1024
             source: https://live.staticflickr.com/7409/26594787843_f906824f2f_b.jpg
-            local-source: "/assets/photos/72157627416170731_26594787843_large.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26594787843_large.jpg"
           Large 1600:
             width: 1600
             height: 1600
             source: https://live.staticflickr.com/7409/26594787843_c8bc5e4eb8_h.jpg
-            local-source: "/assets/photos/72157627416170731_26594787843_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26594787843_large-1600.jpg"
           Large 2048: &20
             width: 2048
             height: 2048
             source: https://live.staticflickr.com/7409/26594787843_d8adfe42e8_k.jpg
-            local-source: "/assets/photos/72157627416170731_26594787843_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26594787843_large-2048.jpg"
           Original:
             width: 4000
             height: 4000
             source: https://live.staticflickr.com/7409/26594787843_93b5688187_o.jpg
-            local-source: "/assets/photos/72157627416170731_26594787843_original.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_26594787843_original.jpg"
         max_photo: *20
       27199852605: &65 !ruby/object:FlickrPhoto
         title: Kasia B.
@@ -1356,62 +1356,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/7536/27199852605_2d5a27934a_s.jpg
-            local-source: "/assets/photos/72157627416170731_27199852605_square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27199852605_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/7536/27199852605_2d5a27934a_q.jpg
-            local-source: "/assets/photos/72157627416170731_27199852605_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27199852605_large-square.jpg"
           Thumbnail:
             width: 67
             height: 100
             source: https://live.staticflickr.com/7536/27199852605_2d5a27934a_t.jpg
-            local-source: "/assets/photos/72157627416170731_27199852605_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27199852605_thumbnail.jpg"
           Small:
             width: 160
             height: 240
             source: https://live.staticflickr.com/7536/27199852605_2d5a27934a_m.jpg
-            local-source: "/assets/photos/72157627416170731_27199852605_small.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27199852605_small.jpg"
           Small 320:
             width: 213
             height: 320
             source: https://live.staticflickr.com/7536/27199852605_2d5a27934a_n.jpg
-            local-source: "/assets/photos/72157627416170731_27199852605_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27199852605_small-320.jpg"
           Medium:
             width: 333
             height: 500
             source: https://live.staticflickr.com/7536/27199852605_2d5a27934a.jpg
-            local-source: "/assets/photos/72157627416170731_27199852605_medium.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27199852605_medium.jpg"
           Medium 640:
             width: 427
             height: 640
             source: https://live.staticflickr.com/7536/27199852605_2d5a27934a_z.jpg
-            local-source: "/assets/photos/72157627416170731_27199852605_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27199852605_medium-640.jpg"
           Medium 800:
             width: 534
             height: 800
             source: https://live.staticflickr.com/7536/27199852605_2d5a27934a_c.jpg
-            local-source: "/assets/photos/72157627416170731_27199852605_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27199852605_medium-800.jpg"
           Large:
             width: 683
             height: 1024
             source: https://live.staticflickr.com/7536/27199852605_2d5a27934a_b.jpg
-            local-source: "/assets/photos/72157627416170731_27199852605_large.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27199852605_large.jpg"
           Large 1600:
             width: 1067
             height: 1600
             source: https://live.staticflickr.com/7536/27199852605_c5af9058e5_h.jpg
-            local-source: "/assets/photos/72157627416170731_27199852605_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27199852605_large-1600.jpg"
           Large 2048: &21
             width: 1365
             height: 2048
             source: https://live.staticflickr.com/7536/27199852605_5b7e8a749f_k.jpg
-            local-source: "/assets/photos/72157627416170731_27199852605_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27199852605_large-2048.jpg"
           Original:
             width: 4000
             height: 6000
             source: https://live.staticflickr.com/7536/27199852605_57125e489f_o.jpg
-            local-source: "/assets/photos/72157627416170731_27199852605_original.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_27199852605_original.jpg"
         max_photo: *21
       6090104419: &66 !ruby/object:FlickrPhoto
         title: Wind of change 3 - Bald.
@@ -1425,47 +1425,47 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/6067/6090104419_6052903022_s.jpg
-            local-source: "/assets/photos/72157627416170731_6090104419_square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090104419_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/6067/6090104419_6052903022_q.jpg
-            local-source: "/assets/photos/72157627416170731_6090104419_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090104419_large-square.jpg"
           Thumbnail:
             width: 100
             height: 100
             source: https://live.staticflickr.com/6067/6090104419_6052903022_t.jpg
-            local-source: "/assets/photos/72157627416170731_6090104419_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090104419_thumbnail.jpg"
           Small:
             width: 240
             height: 240
             source: https://live.staticflickr.com/6067/6090104419_6052903022_m.jpg
-            local-source: "/assets/photos/72157627416170731_6090104419_small.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090104419_small.jpg"
           Small 320:
             width: 320
             height: 320
             source: https://live.staticflickr.com/6067/6090104419_6052903022_n.jpg
-            local-source: "/assets/photos/72157627416170731_6090104419_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090104419_small-320.jpg"
           Medium:
             width: 500
             height: 500
             source: https://live.staticflickr.com/6067/6090104419_6052903022.jpg
-            local-source: "/assets/photos/72157627416170731_6090104419_medium.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090104419_medium.jpg"
           Medium 640:
             width: 639
             height: 640
             source: https://live.staticflickr.com/6067/6090104419_6052903022_z.jpg
-            local-source: "/assets/photos/72157627416170731_6090104419_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090104419_medium-640.jpg"
           Large:
             width: 1023
             height: 1024
             source: https://live.staticflickr.com/6067/6090104419_6052903022_b.jpg
-            local-source: "/assets/photos/72157627416170731_6090104419_large.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090104419_large.jpg"
           Original: &22
             width: 1658
             height: 1659
             source: https://live.staticflickr.com/6067/6090104419_fd15045360_o.jpg
-            local-source: "/assets/photos/72157627416170731_6090104419_original.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090104419_original.jpg"
         max_photo: *22
       6090644270: &67 !ruby/object:FlickrPhoto
         title: Wind of change 2 - Mohawk
@@ -1481,47 +1481,47 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/6087/6090644270_30138258f9_s.jpg
-            local-source: "/assets/photos/72157627416170731_6090644270_square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090644270_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/6087/6090644270_30138258f9_q.jpg
-            local-source: "/assets/photos/72157627416170731_6090644270_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090644270_large-square.jpg"
           Thumbnail:
             width: 100
             height: 100
             source: https://live.staticflickr.com/6087/6090644270_30138258f9_t.jpg
-            local-source: "/assets/photos/72157627416170731_6090644270_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090644270_thumbnail.jpg"
           Small:
             width: 240
             height: 240
             source: https://live.staticflickr.com/6087/6090644270_30138258f9_m.jpg
-            local-source: "/assets/photos/72157627416170731_6090644270_small.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090644270_small.jpg"
           Small 320:
             width: 320
             height: 320
             source: https://live.staticflickr.com/6087/6090644270_30138258f9_n.jpg
-            local-source: "/assets/photos/72157627416170731_6090644270_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090644270_small-320.jpg"
           Medium:
             width: 500
             height: 500
             source: https://live.staticflickr.com/6087/6090644270_30138258f9.jpg
-            local-source: "/assets/photos/72157627416170731_6090644270_medium.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090644270_medium.jpg"
           Medium 640:
             width: 640
             height: 640
             source: https://live.staticflickr.com/6087/6090644270_30138258f9_z.jpg
-            local-source: "/assets/photos/72157627416170731_6090644270_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090644270_medium-640.jpg"
           Large:
             width: 1024
             height: 1024
             source: https://live.staticflickr.com/6087/6090644270_30138258f9_b.jpg
-            local-source: "/assets/photos/72157627416170731_6090644270_large.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090644270_large.jpg"
           Original: &23
             width: 1930
             height: 1930
             source: https://live.staticflickr.com/6087/6090644270_48b1b124a8_o.jpg
-            local-source: "/assets/photos/72157627416170731_6090644270_original.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090644270_original.jpg"
         max_photo: *23
       6090096515: &68 !ruby/object:FlickrPhoto
         title: Wind of change 1
@@ -1535,47 +1535,47 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/6189/6090096515_65a5aa37db_s.jpg
-            local-source: "/assets/photos/72157627416170731_6090096515_square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090096515_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/6189/6090096515_65a5aa37db_q.jpg
-            local-source: "/assets/photos/72157627416170731_6090096515_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090096515_large-square.jpg"
           Thumbnail:
             width: 100
             height: 100
             source: https://live.staticflickr.com/6189/6090096515_65a5aa37db_t.jpg
-            local-source: "/assets/photos/72157627416170731_6090096515_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090096515_thumbnail.jpg"
           Small:
             width: 240
             height: 240
             source: https://live.staticflickr.com/6189/6090096515_65a5aa37db_m.jpg
-            local-source: "/assets/photos/72157627416170731_6090096515_small.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090096515_small.jpg"
           Small 320:
             width: 320
             height: 320
             source: https://live.staticflickr.com/6189/6090096515_65a5aa37db_n.jpg
-            local-source: "/assets/photos/72157627416170731_6090096515_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090096515_small-320.jpg"
           Medium:
             width: 500
             height: 500
             source: https://live.staticflickr.com/6189/6090096515_65a5aa37db.jpg
-            local-source: "/assets/photos/72157627416170731_6090096515_medium.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090096515_medium.jpg"
           Medium 640:
             width: 640
             height: 640
             source: https://live.staticflickr.com/6189/6090096515_65a5aa37db_z.jpg
-            local-source: "/assets/photos/72157627416170731_6090096515_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090096515_medium-640.jpg"
           Large:
             width: 1024
             height: 1024
             source: https://live.staticflickr.com/6189/6090096515_65a5aa37db_b.jpg
-            local-source: "/assets/photos/72157627416170731_6090096515_large.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090096515_large.jpg"
           Original: &24
             width: 2018
             height: 2018
             source: https://live.staticflickr.com/6189/6090096515_aa030325e3_o.jpg
-            local-source: "/assets/photos/72157627416170731_6090096515_original.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_6090096515_original.jpg"
         max_photo: *24
       29662023435: &47 !ruby/object:FlickrPhoto
         title: Mariusz
@@ -1589,62 +1589,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/8556/29662023435_141d69ccc2_s.jpg
-            local-source: "/assets/photos/72157627416170731_29662023435_square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29662023435_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/8556/29662023435_141d69ccc2_q.jpg
-            local-source: "/assets/photos/72157627416170731_29662023435_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29662023435_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/8556/29662023435_141d69ccc2_t.jpg
-            local-source: "/assets/photos/72157627416170731_29662023435_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29662023435_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/8556/29662023435_141d69ccc2_m.jpg
-            local-source: "/assets/photos/72157627416170731_29662023435_small.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29662023435_small.jpg"
           Small 320:
             width: 320
             height: 213
             source: https://live.staticflickr.com/8556/29662023435_141d69ccc2_n.jpg
-            local-source: "/assets/photos/72157627416170731_29662023435_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29662023435_small-320.jpg"
           Medium:
             width: 500
             height: 333
             source: https://live.staticflickr.com/8556/29662023435_141d69ccc2.jpg
-            local-source: "/assets/photos/72157627416170731_29662023435_medium.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29662023435_medium.jpg"
           Medium 640:
             width: 640
             height: 427
             source: https://live.staticflickr.com/8556/29662023435_141d69ccc2_z.jpg
-            local-source: "/assets/photos/72157627416170731_29662023435_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29662023435_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/8556/29662023435_141d69ccc2_c.jpg
-            local-source: "/assets/photos/72157627416170731_29662023435_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29662023435_medium-800.jpg"
           Large:
             width: 1024
             height: 683
             source: https://live.staticflickr.com/8556/29662023435_141d69ccc2_b.jpg
-            local-source: "/assets/photos/72157627416170731_29662023435_large.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29662023435_large.jpg"
           Large 1600:
             width: 1600
             height: 1067
             source: https://live.staticflickr.com/8556/29662023435_c5b47c30b8_h.jpg
-            local-source: "/assets/photos/72157627416170731_29662023435_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29662023435_large-1600.jpg"
           Large 2048: &25
             width: 2048
             height: 1365
             source: https://live.staticflickr.com/8556/29662023435_7ae635292a_k.jpg
-            local-source: "/assets/photos/72157627416170731_29662023435_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29662023435_large-2048.jpg"
           Original:
             width: 5643
             height: 3762
             source: https://live.staticflickr.com/8556/29662023435_d11d88dcc4_o.jpg
-            local-source: "/assets/photos/72157627416170731_29662023435_original.jpg"
+            local-source: "/assets/flickrphotos/72157627416170731_29662023435_original.jpg"
         max_photo: *25
     primaryphoto: *26
   72157672536764441: !ruby/object:FlickrSet
@@ -1668,62 +1668,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/8216/29440666462_5584a9773d_s.jpg
-            local-source: "/assets/photos/72157672536764441_29440666462_square.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440666462_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/8216/29440666462_5584a9773d_q.jpg
-            local-source: "/assets/photos/72157672536764441_29440666462_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440666462_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/8216/29440666462_5584a9773d_t.jpg
-            local-source: "/assets/photos/72157672536764441_29440666462_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440666462_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/8216/29440666462_5584a9773d_m.jpg
-            local-source: "/assets/photos/72157672536764441_29440666462_small.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440666462_small.jpg"
           Small 320:
             width: 320
             height: 214
             source: https://live.staticflickr.com/8216/29440666462_5584a9773d_n.jpg
-            local-source: "/assets/photos/72157672536764441_29440666462_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440666462_small-320.jpg"
           Medium:
             width: 500
             height: 334
             source: https://live.staticflickr.com/8216/29440666462_5584a9773d.jpg
-            local-source: "/assets/photos/72157672536764441_29440666462_medium.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440666462_medium.jpg"
           Medium 640:
             width: 640
             height: 428
             source: https://live.staticflickr.com/8216/29440666462_5584a9773d_z.jpg
-            local-source: "/assets/photos/72157672536764441_29440666462_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440666462_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/8216/29440666462_5584a9773d_c.jpg
-            local-source: "/assets/photos/72157672536764441_29440666462_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440666462_medium-800.jpg"
           Large:
             width: 1024
             height: 684
             source: https://live.staticflickr.com/8216/29440666462_5584a9773d_b.jpg
-            local-source: "/assets/photos/72157672536764441_29440666462_large.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440666462_large.jpg"
           Large 1600:
             width: 1600
             height: 1069
             source: https://live.staticflickr.com/8216/29440666462_44c8e7d53a_h.jpg
-            local-source: "/assets/photos/72157672536764441_29440666462_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440666462_large-1600.jpg"
           Large 2048: &27
             width: 2048
             height: 1368
             source: https://live.staticflickr.com/8216/29440666462_0b1a780947_k.jpg
-            local-source: "/assets/photos/72157672536764441_29440666462_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440666462_large-2048.jpg"
           Original:
             width: 5989
             height: 4000
             source: https://live.staticflickr.com/8216/29440666462_8e203766b0_o.jpg
-            local-source: "/assets/photos/72157672536764441_29440666462_original.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440666462_original.jpg"
         max_photo: *27
       29516076916: &37 !ruby/object:FlickrPhoto
         title: Cathedral - Sandomierz
@@ -1737,62 +1737,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/8179/29516076916_4f7faa0a1e_s.jpg
-            local-source: "/assets/photos/72157672536764441_29516076916_square.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516076916_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/8179/29516076916_4f7faa0a1e_q.jpg
-            local-source: "/assets/photos/72157672536764441_29516076916_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516076916_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/8179/29516076916_4f7faa0a1e_t.jpg
-            local-source: "/assets/photos/72157672536764441_29516076916_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516076916_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/8179/29516076916_4f7faa0a1e_m.jpg
-            local-source: "/assets/photos/72157672536764441_29516076916_small.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516076916_small.jpg"
           Small 320:
             width: 320
             height: 214
             source: https://live.staticflickr.com/8179/29516076916_4f7faa0a1e_n.jpg
-            local-source: "/assets/photos/72157672536764441_29516076916_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516076916_small-320.jpg"
           Medium:
             width: 500
             height: 334
             source: https://live.staticflickr.com/8179/29516076916_4f7faa0a1e.jpg
-            local-source: "/assets/photos/72157672536764441_29516076916_medium.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516076916_medium.jpg"
           Medium 640:
             width: 640
             height: 428
             source: https://live.staticflickr.com/8179/29516076916_4f7faa0a1e_z.jpg
-            local-source: "/assets/photos/72157672536764441_29516076916_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516076916_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/8179/29516076916_4f7faa0a1e_c.jpg
-            local-source: "/assets/photos/72157672536764441_29516076916_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516076916_medium-800.jpg"
           Large:
             width: 1024
             height: 684
             source: https://live.staticflickr.com/8179/29516076916_4f7faa0a1e_b.jpg
-            local-source: "/assets/photos/72157672536764441_29516076916_large.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516076916_large.jpg"
           Large 1600:
             width: 1600
             height: 1069
             source: https://live.staticflickr.com/8179/29516076916_7afeb25f86_h.jpg
-            local-source: "/assets/photos/72157672536764441_29516076916_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516076916_large-1600.jpg"
           Large 2048: &28
             width: 2048
             height: 1368
             source: https://live.staticflickr.com/8179/29516076916_b5386d05ac_k.jpg
-            local-source: "/assets/photos/72157672536764441_29516076916_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516076916_large-2048.jpg"
           Original:
             width: 5989
             height: 4000
             source: https://live.staticflickr.com/8179/29516076916_7f9f568b93_o.jpg
-            local-source: "/assets/photos/72157672536764441_29516076916_original.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516076916_original.jpg"
         max_photo: *28
       29440744932: &57 !ruby/object:FlickrPhoto
         title: Sweet nowhere
@@ -1806,62 +1806,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/8736/29440744932_f233798a89_s.jpg
-            local-source: "/assets/photos/72157672536764441_29440744932_square.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440744932_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/8736/29440744932_f233798a89_q.jpg
-            local-source: "/assets/photos/72157672536764441_29440744932_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440744932_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/8736/29440744932_f233798a89_t.jpg
-            local-source: "/assets/photos/72157672536764441_29440744932_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440744932_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/8736/29440744932_f233798a89_m.jpg
-            local-source: "/assets/photos/72157672536764441_29440744932_small.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440744932_small.jpg"
           Small 320:
             width: 320
             height: 214
             source: https://live.staticflickr.com/8736/29440744932_f233798a89_n.jpg
-            local-source: "/assets/photos/72157672536764441_29440744932_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440744932_small-320.jpg"
           Medium:
             width: 500
             height: 334
             source: https://live.staticflickr.com/8736/29440744932_f233798a89.jpg
-            local-source: "/assets/photos/72157672536764441_29440744932_medium.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440744932_medium.jpg"
           Medium 640:
             width: 640
             height: 428
             source: https://live.staticflickr.com/8736/29440744932_f233798a89_z.jpg
-            local-source: "/assets/photos/72157672536764441_29440744932_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440744932_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/8736/29440744932_f233798a89_c.jpg
-            local-source: "/assets/photos/72157672536764441_29440744932_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440744932_medium-800.jpg"
           Large:
             width: 1024
             height: 684
             source: https://live.staticflickr.com/8736/29440744932_f233798a89_b.jpg
-            local-source: "/assets/photos/72157672536764441_29440744932_large.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440744932_large.jpg"
           Large 1600:
             width: 1600
             height: 1069
             source: https://live.staticflickr.com/8736/29440744932_264764fddb_h.jpg
-            local-source: "/assets/photos/72157672536764441_29440744932_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440744932_large-1600.jpg"
           Large 2048: &29
             width: 2048
             height: 1368
             source: https://live.staticflickr.com/8736/29440744932_47dff9cb95_k.jpg
-            local-source: "/assets/photos/72157672536764441_29440744932_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440744932_large-2048.jpg"
           Original:
             width: 5989
             height: 4000
             source: https://live.staticflickr.com/8736/29440744932_b57b11a4e0_o.jpg
-            local-source: "/assets/photos/72157672536764441_29440744932_original.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29440744932_original.jpg"
         max_photo: *29
       28924927644: &56 !ruby/object:FlickrPhoto
         title: Tunnel of love
@@ -1875,62 +1875,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/8276/28924927644_d814b544ae_s.jpg
-            local-source: "/assets/photos/72157672536764441_28924927644_square.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28924927644_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/8276/28924927644_d814b544ae_q.jpg
-            local-source: "/assets/photos/72157672536764441_28924927644_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28924927644_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/8276/28924927644_d814b544ae_t.jpg
-            local-source: "/assets/photos/72157672536764441_28924927644_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28924927644_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/8276/28924927644_d814b544ae_m.jpg
-            local-source: "/assets/photos/72157672536764441_28924927644_small.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28924927644_small.jpg"
           Small 320:
             width: 320
             height: 214
             source: https://live.staticflickr.com/8276/28924927644_d814b544ae_n.jpg
-            local-source: "/assets/photos/72157672536764441_28924927644_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28924927644_small-320.jpg"
           Medium:
             width: 500
             height: 334
             source: https://live.staticflickr.com/8276/28924927644_d814b544ae.jpg
-            local-source: "/assets/photos/72157672536764441_28924927644_medium.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28924927644_medium.jpg"
           Medium 640:
             width: 640
             height: 428
             source: https://live.staticflickr.com/8276/28924927644_d814b544ae_z.jpg
-            local-source: "/assets/photos/72157672536764441_28924927644_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28924927644_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/8276/28924927644_d814b544ae_c.jpg
-            local-source: "/assets/photos/72157672536764441_28924927644_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28924927644_medium-800.jpg"
           Large:
             width: 1024
             height: 684
             source: https://live.staticflickr.com/8276/28924927644_d814b544ae_b.jpg
-            local-source: "/assets/photos/72157672536764441_28924927644_large.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28924927644_large.jpg"
           Large 1600:
             width: 1600
             height: 1069
             source: https://live.staticflickr.com/8276/28924927644_6e250be85b_h.jpg
-            local-source: "/assets/photos/72157672536764441_28924927644_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28924927644_large-1600.jpg"
           Large 2048: &30
             width: 2048
             height: 1368
             source: https://live.staticflickr.com/8276/28924927644_d68cf9246a_k.jpg
-            local-source: "/assets/photos/72157672536764441_28924927644_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28924927644_large-2048.jpg"
           Original:
             width: 5989
             height: 4000
             source: https://live.staticflickr.com/8276/28924927644_f03e0ffa9b_o.jpg
-            local-source: "/assets/photos/72157672536764441_28924927644_original.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28924927644_original.jpg"
         max_photo: *30
       29516231316: &55 !ruby/object:FlickrPhoto
         title: 'Tunnel of love #2'
@@ -1944,62 +1944,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/8390/29516231316_05c94d05b1_s.jpg
-            local-source: "/assets/photos/72157672536764441_29516231316_square.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516231316_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/8390/29516231316_05c94d05b1_q.jpg
-            local-source: "/assets/photos/72157672536764441_29516231316_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516231316_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/8390/29516231316_05c94d05b1_t.jpg
-            local-source: "/assets/photos/72157672536764441_29516231316_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516231316_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/8390/29516231316_05c94d05b1_m.jpg
-            local-source: "/assets/photos/72157672536764441_29516231316_small.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516231316_small.jpg"
           Small 320:
             width: 320
             height: 214
             source: https://live.staticflickr.com/8390/29516231316_05c94d05b1_n.jpg
-            local-source: "/assets/photos/72157672536764441_29516231316_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516231316_small-320.jpg"
           Medium:
             width: 500
             height: 334
             source: https://live.staticflickr.com/8390/29516231316_05c94d05b1.jpg
-            local-source: "/assets/photos/72157672536764441_29516231316_medium.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516231316_medium.jpg"
           Medium 640:
             width: 640
             height: 428
             source: https://live.staticflickr.com/8390/29516231316_05c94d05b1_z.jpg
-            local-source: "/assets/photos/72157672536764441_29516231316_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516231316_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/8390/29516231316_05c94d05b1_c.jpg
-            local-source: "/assets/photos/72157672536764441_29516231316_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516231316_medium-800.jpg"
           Large:
             width: 1024
             height: 684
             source: https://live.staticflickr.com/8390/29516231316_05c94d05b1_b.jpg
-            local-source: "/assets/photos/72157672536764441_29516231316_large.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516231316_large.jpg"
           Large 1600:
             width: 1600
             height: 1069
             source: https://live.staticflickr.com/8390/29516231316_116a45c41d_h.jpg
-            local-source: "/assets/photos/72157672536764441_29516231316_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516231316_large-1600.jpg"
           Large 2048: &31
             width: 2048
             height: 1368
             source: https://live.staticflickr.com/8390/29516231316_7bdd8d670a_k.jpg
-            local-source: "/assets/photos/72157672536764441_29516231316_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516231316_large-2048.jpg"
           Original:
             width: 5989
             height: 4000
             source: https://live.staticflickr.com/8390/29516231316_9cb8e5eb1f_o.jpg
-            local-source: "/assets/photos/72157672536764441_29516231316_original.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29516231316_original.jpg"
         max_photo: *31
       29469637921: &54 !ruby/object:FlickrPhoto
         title: Cutie
@@ -2013,62 +2013,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/8148/29469637921_239fca412e_s.jpg
-            local-source: "/assets/photos/72157672536764441_29469637921_square.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29469637921_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/8148/29469637921_239fca412e_q.jpg
-            local-source: "/assets/photos/72157672536764441_29469637921_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29469637921_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/8148/29469637921_239fca412e_t.jpg
-            local-source: "/assets/photos/72157672536764441_29469637921_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29469637921_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/8148/29469637921_239fca412e_m.jpg
-            local-source: "/assets/photos/72157672536764441_29469637921_small.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29469637921_small.jpg"
           Small 320:
             width: 320
             height: 214
             source: https://live.staticflickr.com/8148/29469637921_239fca412e_n.jpg
-            local-source: "/assets/photos/72157672536764441_29469637921_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29469637921_small-320.jpg"
           Medium:
             width: 500
             height: 334
             source: https://live.staticflickr.com/8148/29469637921_239fca412e.jpg
-            local-source: "/assets/photos/72157672536764441_29469637921_medium.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29469637921_medium.jpg"
           Medium 640:
             width: 640
             height: 428
             source: https://live.staticflickr.com/8148/29469637921_239fca412e_z.jpg
-            local-source: "/assets/photos/72157672536764441_29469637921_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29469637921_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/8148/29469637921_239fca412e_c.jpg
-            local-source: "/assets/photos/72157672536764441_29469637921_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29469637921_medium-800.jpg"
           Large:
             width: 1024
             height: 684
             source: https://live.staticflickr.com/8148/29469637921_239fca412e_b.jpg
-            local-source: "/assets/photos/72157672536764441_29469637921_large.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29469637921_large.jpg"
           Large 1600:
             width: 1600
             height: 1069
             source: https://live.staticflickr.com/8148/29469637921_e2868e2350_h.jpg
-            local-source: "/assets/photos/72157672536764441_29469637921_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29469637921_large-1600.jpg"
           Large 2048: &32
             width: 2048
             height: 1368
             source: https://live.staticflickr.com/8148/29469637921_fd725cd7e5_k.jpg
-            local-source: "/assets/photos/72157672536764441_29469637921_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29469637921_large-2048.jpg"
           Original:
             width: 5989
             height: 4000
             source: https://live.staticflickr.com/8148/29469637921_87a57512f4_o.jpg
-            local-source: "/assets/photos/72157672536764441_29469637921_original.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29469637921_original.jpg"
         max_photo: *32
       28927351813: &53 !ruby/object:FlickrPhoto
         title: 'Tunnel of love #3'
@@ -2084,62 +2084,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/8237/28927351813_2f4ba6f564_s.jpg
-            local-source: "/assets/photos/72157672536764441_28927351813_square.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28927351813_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/8237/28927351813_2f4ba6f564_q.jpg
-            local-source: "/assets/photos/72157672536764441_28927351813_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28927351813_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/8237/28927351813_2f4ba6f564_t.jpg
-            local-source: "/assets/photos/72157672536764441_28927351813_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28927351813_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/8237/28927351813_2f4ba6f564_m.jpg
-            local-source: "/assets/photos/72157672536764441_28927351813_small.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28927351813_small.jpg"
           Small 320:
             width: 320
             height: 214
             source: https://live.staticflickr.com/8237/28927351813_2f4ba6f564_n.jpg
-            local-source: "/assets/photos/72157672536764441_28927351813_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28927351813_small-320.jpg"
           Medium:
             width: 500
             height: 334
             source: https://live.staticflickr.com/8237/28927351813_2f4ba6f564.jpg
-            local-source: "/assets/photos/72157672536764441_28927351813_medium.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28927351813_medium.jpg"
           Medium 640:
             width: 640
             height: 428
             source: https://live.staticflickr.com/8237/28927351813_2f4ba6f564_z.jpg
-            local-source: "/assets/photos/72157672536764441_28927351813_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28927351813_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/8237/28927351813_2f4ba6f564_c.jpg
-            local-source: "/assets/photos/72157672536764441_28927351813_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28927351813_medium-800.jpg"
           Large:
             width: 1024
             height: 684
             source: https://live.staticflickr.com/8237/28927351813_2f4ba6f564_b.jpg
-            local-source: "/assets/photos/72157672536764441_28927351813_large.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28927351813_large.jpg"
           Large 1600:
             width: 1600
             height: 1069
             source: https://live.staticflickr.com/8237/28927351813_574efb528f_h.jpg
-            local-source: "/assets/photos/72157672536764441_28927351813_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28927351813_large-1600.jpg"
           Large 2048: &33
             width: 2048
             height: 1368
             source: https://live.staticflickr.com/8237/28927351813_a29bf7b8a4_k.jpg
-            local-source: "/assets/photos/72157672536764441_28927351813_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28927351813_large-2048.jpg"
           Original:
             width: 5989
             height: 4000
             source: https://live.staticflickr.com/8237/28927351813_5483d499cf_o.jpg
-            local-source: "/assets/photos/72157672536764441_28927351813_original.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_28927351813_original.jpg"
         max_photo: *33
       29607597906: &52 !ruby/object:FlickrPhoto
         title: 'Tunnel of love #4'
@@ -2153,62 +2153,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/8090/29607597906_2e13ac7901_s.jpg
-            local-source: "/assets/photos/72157672536764441_29607597906_square.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29607597906_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/8090/29607597906_2e13ac7901_q.jpg
-            local-source: "/assets/photos/72157672536764441_29607597906_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29607597906_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/8090/29607597906_2e13ac7901_t.jpg
-            local-source: "/assets/photos/72157672536764441_29607597906_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29607597906_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/8090/29607597906_2e13ac7901_m.jpg
-            local-source: "/assets/photos/72157672536764441_29607597906_small.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29607597906_small.jpg"
           Small 320:
             width: 320
             height: 214
             source: https://live.staticflickr.com/8090/29607597906_2e13ac7901_n.jpg
-            local-source: "/assets/photos/72157672536764441_29607597906_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29607597906_small-320.jpg"
           Medium:
             width: 500
             height: 334
             source: https://live.staticflickr.com/8090/29607597906_2e13ac7901.jpg
-            local-source: "/assets/photos/72157672536764441_29607597906_medium.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29607597906_medium.jpg"
           Medium 640:
             width: 640
             height: 428
             source: https://live.staticflickr.com/8090/29607597906_2e13ac7901_z.jpg
-            local-source: "/assets/photos/72157672536764441_29607597906_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29607597906_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/8090/29607597906_2e13ac7901_c.jpg
-            local-source: "/assets/photos/72157672536764441_29607597906_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29607597906_medium-800.jpg"
           Large:
             width: 1024
             height: 684
             source: https://live.staticflickr.com/8090/29607597906_2e13ac7901_b.jpg
-            local-source: "/assets/photos/72157672536764441_29607597906_large.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29607597906_large.jpg"
           Large 1600:
             width: 1600
             height: 1069
             source: https://live.staticflickr.com/8090/29607597906_008c23d9e5_h.jpg
-            local-source: "/assets/photos/72157672536764441_29607597906_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29607597906_large-1600.jpg"
           Large 2048: &34
             width: 2048
             height: 1368
             source: https://live.staticflickr.com/8090/29607597906_01c903c641_k.jpg
-            local-source: "/assets/photos/72157672536764441_29607597906_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29607597906_large-2048.jpg"
           Original:
             width: 5989
             height: 4000
             source: https://live.staticflickr.com/8090/29607597906_c80e976099_o.jpg
-            local-source: "/assets/photos/72157672536764441_29607597906_original.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29607597906_original.jpg"
         max_photo: *34
       29561091691: &51 !ruby/object:FlickrPhoto
         title: 'Tunnel of love #5'
@@ -2222,62 +2222,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/8382/29561091691_f125b0db3d_s.jpg
-            local-source: "/assets/photos/72157672536764441_29561091691_square.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29561091691_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/8382/29561091691_f125b0db3d_q.jpg
-            local-source: "/assets/photos/72157672536764441_29561091691_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29561091691_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/8382/29561091691_f125b0db3d_t.jpg
-            local-source: "/assets/photos/72157672536764441_29561091691_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29561091691_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/8382/29561091691_f125b0db3d_m.jpg
-            local-source: "/assets/photos/72157672536764441_29561091691_small.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29561091691_small.jpg"
           Small 320:
             width: 320
             height: 214
             source: https://live.staticflickr.com/8382/29561091691_f125b0db3d_n.jpg
-            local-source: "/assets/photos/72157672536764441_29561091691_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29561091691_small-320.jpg"
           Medium:
             width: 500
             height: 334
             source: https://live.staticflickr.com/8382/29561091691_f125b0db3d.jpg
-            local-source: "/assets/photos/72157672536764441_29561091691_medium.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29561091691_medium.jpg"
           Medium 640:
             width: 640
             height: 428
             source: https://live.staticflickr.com/8382/29561091691_f125b0db3d_z.jpg
-            local-source: "/assets/photos/72157672536764441_29561091691_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29561091691_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/8382/29561091691_f125b0db3d_c.jpg
-            local-source: "/assets/photos/72157672536764441_29561091691_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29561091691_medium-800.jpg"
           Large:
             width: 1024
             height: 684
             source: https://live.staticflickr.com/8382/29561091691_f125b0db3d_b.jpg
-            local-source: "/assets/photos/72157672536764441_29561091691_large.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29561091691_large.jpg"
           Large 1600:
             width: 1600
             height: 1069
             source: https://live.staticflickr.com/8382/29561091691_c4ceafe249_h.jpg
-            local-source: "/assets/photos/72157672536764441_29561091691_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29561091691_large-1600.jpg"
           Large 2048: &35
             width: 2048
             height: 1368
             source: https://live.staticflickr.com/8382/29561091691_843189b64b_k.jpg
-            local-source: "/assets/photos/72157672536764441_29561091691_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29561091691_large-2048.jpg"
           Original:
             width: 5989
             height: 4000
             source: https://live.staticflickr.com/8382/29561091691_9d90ed7c49_o.jpg
-            local-source: "/assets/photos/72157672536764441_29561091691_original.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29561091691_original.jpg"
         max_photo: *35
       29016344424: &49 !ruby/object:FlickrPhoto
         title: 'Tunnel of love #6'
@@ -2291,62 +2291,62 @@ photosets:
             width: 75
             height: 75
             source: https://live.staticflickr.com/8264/29016344424_a398960758_s.jpg
-            local-source: "/assets/photos/72157672536764441_29016344424_square.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29016344424_square.jpg"
           Large Square:
             width: 150
             height: 150
             source: https://live.staticflickr.com/8264/29016344424_a398960758_q.jpg
-            local-source: "/assets/photos/72157672536764441_29016344424_large-square.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29016344424_large-square.jpg"
           Thumbnail:
             width: 100
             height: 67
             source: https://live.staticflickr.com/8264/29016344424_a398960758_t.jpg
-            local-source: "/assets/photos/72157672536764441_29016344424_thumbnail.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29016344424_thumbnail.jpg"
           Small:
             width: 240
             height: 160
             source: https://live.staticflickr.com/8264/29016344424_a398960758_m.jpg
-            local-source: "/assets/photos/72157672536764441_29016344424_small.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29016344424_small.jpg"
           Small 320:
             width: 320
             height: 214
             source: https://live.staticflickr.com/8264/29016344424_a398960758_n.jpg
-            local-source: "/assets/photos/72157672536764441_29016344424_small-320.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29016344424_small-320.jpg"
           Medium:
             width: 500
             height: 334
             source: https://live.staticflickr.com/8264/29016344424_a398960758.jpg
-            local-source: "/assets/photos/72157672536764441_29016344424_medium.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29016344424_medium.jpg"
           Medium 640:
             width: 640
             height: 428
             source: https://live.staticflickr.com/8264/29016344424_a398960758_z.jpg
-            local-source: "/assets/photos/72157672536764441_29016344424_medium-640.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29016344424_medium-640.jpg"
           Medium 800:
             width: 800
             height: 534
             source: https://live.staticflickr.com/8264/29016344424_a398960758_c.jpg
-            local-source: "/assets/photos/72157672536764441_29016344424_medium-800.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29016344424_medium-800.jpg"
           Large:
             width: 1024
             height: 684
             source: https://live.staticflickr.com/8264/29016344424_a398960758_b.jpg
-            local-source: "/assets/photos/72157672536764441_29016344424_large.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29016344424_large.jpg"
           Large 1600:
             width: 1600
             height: 1069
             source: https://live.staticflickr.com/8264/29016344424_2f832cdc7a_h.jpg
-            local-source: "/assets/photos/72157672536764441_29016344424_large-1600.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29016344424_large-1600.jpg"
           Large 2048: &36
             width: 2048
             height: 1368
             source: https://live.staticflickr.com/8264/29016344424_a8007044ba_k.jpg
-            local-source: "/assets/photos/72157672536764441_29016344424_large-2048.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29016344424_large-2048.jpg"
           Original:
             width: 5989
             height: 4000
             source: https://live.staticflickr.com/8264/29016344424_b93563862e_o.jpg
-            local-source: "/assets/photos/72157672536764441_29016344424_original.jpg"
+            local-source: "/assets/flickrphotos/72157672536764441_29016344424_original.jpg"
         max_photo: *36
     primaryphoto: *37
 sorted_photos:

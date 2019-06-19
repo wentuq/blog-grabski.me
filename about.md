@@ -1,20 +1,24 @@
 ---
-layout: page
+layout: about-page
 title: About
 permalink: /about/
 ---
+I was born and raised in Poland. Studied in Krakow. For last few years I'm trying to connect working and passion for travelling.
+
+ I’m currently living on the outskirts of London, UK.
+
+Lover of [couchsurfing](https://www.couchsurfing.com/) idea, sleeping in tent and travelling on a shoestring.
+
+In last two years I visited Central America for 6 months in total.
+
+I'm big fan of attending music festivals.
+
+For more than 13 years I'm inlineskating.
 
 
-Website uses Jekyll static engine generator
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+#### Shooting photos
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Currently shooting with Sony A6000 and few lenses.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+#### About website
+Website uses [Jekyll - static engine generator](https://jekyllrb.com/) and [flickr api](https://www.flickr.com/services/api/) to fetch photos from [my albums](https://www.flickr.com/photos/wentuq/sets/). Source code available on github.
