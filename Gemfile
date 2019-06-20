@@ -27,3 +27,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'flickraw-cached'
 gem 'html-proofer'
 gem 'rake'
+gem 's3_website'
