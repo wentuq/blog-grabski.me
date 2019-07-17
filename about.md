@@ -21,4 +21,4 @@ For more than 13 years I'm inlineskating.
 Currently shooting with Sony A6000 and few lenses.
 
 #### About website
-Website uses [Jekyll - static engine generator](https://jekyllrb.com/) and [flickr api](https://www.flickr.com/services/api/) to fetch photos from [my albums](https://www.flickr.com/photos/wentuq/sets/). Source code available on github.
+Website uses [Jekyll - static site generator](https://jekyllrb.com/) and [flickr api](https://www.flickr.com/services/api/) to fetch photos from  [selected flickr albums](https://www.flickr.com/photos/wentuq/sets/). Source code available on github.

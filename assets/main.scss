@@ -48,11 +48,11 @@ h5 {
     margin: 0;
 }
 .primary-photo span{
-    color: white; 
+    color: #efefef; 
     font: bold 24px/45px Helvetica, Sans-Serif; 
     letter-spacing: -1px;  
     background: rgb(0, 0, 0); /* fallback color */
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(0, 0, 0, 0.5);
     padding: 0.7em;
     line-height: 1.5;
     display: inline-block;
@@ -62,6 +62,24 @@ h5 {
         font-size: 0.6em;
         color: rgb(209, 209, 209);
     }
+    .photo {
+        margin-bottom: 1.9em;
+        font-size: 0.9em;
+        display: inline-block;
+        padding: 3em 3em 1.5em 3em;
+        border: 1px solid #eee;
+        background-color: #fff;
+    }
+    .photo-description {
+        margin-top: 0.1em;
+
+    }
+    .photo-description a{
+        border-bottom: 1px dotted #222;
+        border-bottom: 1px dotted #a8a8a8;
+        color: #a8a8a8;
+    }
+
 }
 
 .mini-photos {
@@ -70,7 +88,43 @@ h5 {
   grid-row-gap: 1px;
   grid-column-gap: 1px;
 }
+
+#home-container {
+}
+
+.tile {
+    border: 1px solid #e8e8e8;
+    padding-right: 3vw;
+    padding-left: 3vw;
+    padding-bottom: 2em;
+    padding-top: 1.5em;
+    margin-bottom: 10px;
+}
+
+
+.home-photos {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-row-gap: 1em;
+        grid-column-gap: 1em;
+        // margin: 1vw 5vw;
+        .box:nth-child(2n+1) {
+            justify-self: end;
+        }
+        .box:nth-child(2n) {
+            justify-self: start;
+        }
+
+    img {
+
+        object-fit: none;
+        min-width: 100%;
+        max-height: 200px;
+    }
+}
+
 .profile-pic {
     float: right;
-    margin-left: 5em;
+    margin-left: 4em;
+    border-radius: 50%;
 }

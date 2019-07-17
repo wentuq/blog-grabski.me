@@ -23,6 +23,8 @@ deploy:
   region: eu-central-1
   bucket: "www.grabski.me"
   local_dir: _site
+  # Reduced Redundancy Storage now costs more than Standard Storage!
+  # storage_class: "REDUCED_REDUNDANCY"
   acl: public_read
   skip_cleanup: true
   access_key_id:

@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="home">
+<h1 class="tile">Welcome on my personal corner of the web.</h1>
+<div id="home-container">
+<div class="tile">
+  <h2>Latest photos</h2>
+  <div class="home-photos">
+    {% for photo in site.data.photos.sorted_photos limit: 4 %}
+    <div class="box">
+    <a href="/photos/" title="See more photos" >
+    <img src="{{photo[1].sizes['Small 320'].local-source}}" /></a></div>{% endfor %}
+  </div>
+</div>
+{%- if site.posts.size > 0 -%}
+<div class="tile">
+  <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+    <li>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+      {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+      {%- endif -%}
+    </li>
+    {%- endfor -%}
+  </ul>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+</div>
+{%- endif -%}
+</div>
+</div>
