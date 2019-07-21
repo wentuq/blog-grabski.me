@@ -84,7 +84,7 @@ h5 {
 
 .mini-photos {
   display: inline-grid;
-  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   grid-row-gap: 1px;
   grid-column-gap: 1px;
 }
@@ -104,7 +104,7 @@ h5 {
 
 .home-photos {
         display: grid;
-        grid-template-columns: 50% 50%;
+        grid-template-columns: 1fr 1fr;
         grid-row-gap: 1em;
         grid-column-gap: 1em;
         // margin: 1vw 5vw;
@@ -124,7 +124,39 @@ h5 {
 }
 
 .profile-pic {
+    padding: 5px;
+    border: 5px dotted #e8e8e8;
     float: right;
     margin-left: 4em;
     border-radius: 50%;
+    transition: border-radius 0.6s linear, border-style 22s linear;
+}
+.profile-pic:hover {
+    border-radius: 0;
+    border-style: dashed;
+    box-shadow: inset 0 0 100px rgba(255,255,255,0.50);
+}
+
+@include media-query($on-palm) {
+    .profile-pic {
+        float: none;
+        margin: 1em;
+    }
+    .home-photos {
+        grid-row-gap: 1px;
+        grid-column-gap: 1px;
+    }
+    #photos .primary-photo img {
+        height: 15em;
+    }
+    .mini-photos {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+    #photos .photo {
+        padding: 0 0 0.5em 0;
+    }
+    .tile {
+        padding-top: 0.75em;
+        padding-bottom: 1em;
+    }
 }
