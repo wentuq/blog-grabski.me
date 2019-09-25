@@ -21,6 +21,7 @@ env:
 notifications:
   email: false
 install:
+- gem install bundler -v 2.0.2
 - bundle install
 - pip install --user awscli
 script: "./script.sh"
