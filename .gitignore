@@ -2,4 +2,5 @@
 .sass-cache
 .jekyll-metadata
 .idea
+*.code-workspace
 
