@@ -5,7 +5,7 @@ permalink: /about/
 ---
 I was born and raised in Poland. Studied in Krakow. For last few years I'm trying to connect working and passion for travelling.
 
- I’m currently living on the outskirts of London, UK.
+ I’m currently living in Krakow.
 
 Lover of [couchsurfing](https://www.couchsurfing.com/) idea, sleeping in tent and travelling on a shoestring.
 

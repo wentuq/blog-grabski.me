@@ -49,6 +49,7 @@ keep_files:
    - node_modules/lightgallery.js/
 
 header_pages:
+  - posts_index.md
   - photos_index.md
   - about.md
 
@@ -65,4 +66,5 @@ exclude:
    - vendor/ruby/
    - photosets.txt
    - yaml.rb
-   
+   - script.sh
+   - flickraw-cached*

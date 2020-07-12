@@ -9,7 +9,10 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 3.6.0"
-gem "nokogiri", ">= 1.10.4"
+gem "nokogiri", ">= 1.10.8"
+gem "activesupport", ">= 5.2.4.3"
+
+
 
 
 
@@ -29,6 +32,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'flickraw-cached'
 gem 'html-proofer'
-gem 'rake'
+gem "rake", ">= 12.3.3"
 gem 'pry'
 gem 'aws-sdk'
