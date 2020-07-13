@@ -65,10 +65,7 @@ exclude:
    - vendor/gems/
    - vendor/ruby/
    - photosets.txt
-   - yaml.rb
-   - script.sh
-   - flickraw-cached*
    - '*.code-workspace'
-   - tmp.rb
+   - README.md
    
 

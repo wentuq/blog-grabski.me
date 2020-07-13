@@ -37,8 +37,7 @@ resp = client.create_invalidation({
 
 puts "invalidation status: #{resp.invalidation.status}"
 
-### Commented lines
-### waiting till status is Completed, unnecessary
+### Uncomment for: waiting till status is Completed, unnecessary
 
 # status = resp.invalidation.status
 
