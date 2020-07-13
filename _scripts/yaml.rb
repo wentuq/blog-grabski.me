@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 # encoding: utf-8
 
-### FLICKR API environment variables in ~/.profile
+### FLICKR API environment variables in main dir ~/.env
 ### Scripts that fetches photosets using Flickr API and download photos
 ### in photosets to assets/photos
 ### Files used: 
@@ -12,7 +12,7 @@
 ### - _photos/photosetid.md - created pages using previously fetched data
 
 require 'fileutils'
-require_relative 'flickraw-cached'
+require_relative 'flickraw-cached/flickraw-cached'
 require 'yaml'
 require 'date'
 require 'open-uri'
