@@ -16,12 +16,17 @@ require_relative 'flickraw-cached'
 require 'yaml'
 require 'date'
 require 'open-uri'
+require 'aws-sdk'
+
+s3 = Aws::S3::Resource.new(region: ENV['AWS_DEFAULT_REGION'])
+
+$bucket =  s3.bucket(ENV['S3_BUCKET'])
 
 FlickRaw.api_key       = ENV['FLICKR_API_KEY']
 FlickRaw.shared_secret = ENV['FLICKR_API_SECRET']
 flickr.access_token    = ENV['FLICKR_ACCESS_TOKEN']
 flickr.access_secret   = ENV['FLICKR_ACCESS_SECRET']
-user_id = ENV["FLICKR_USER"]
+user_id = ENV['FLICKR_USER']
 
 String.class_eval do
   def to_slug
@@ -108,14 +113,15 @@ class FlickrPhoto
 end
 
 def download_photo(url, filename)
-	### download a photo
-	unless File.file?(filename)
-		open(url) {|f|
-			File.open(filename,"wb") do |file|
-				file.puts f.read
-			end
-		}
+	### download a photo if not exist in S3 bucket
+	# TODO: Download a photo if file is newer on flickr than s3
+	unless $bucket.object(filename).exists?
+		obj = $bucket.object(filename)
+		obj.upload_stream do |write_stream|
+		  IO.copy_stream(URI.open(url), write_stream)
+		end
 	end
+	
 end
 
 class FlickrSet
@@ -153,10 +159,10 @@ class FlickrSet
 		path = "/assets/flickrphotos/"
 		@photos[photo_id].sizes.each do |sid, size|
 				url = size['source']
-			filename =  "#{path}#{set_id}_#{photo_id.to_s}_#{sid.to_slug}.jpg"
-			size['local-source'] = filename
+			file =  "#{path}#{set_id}_#{photo_id.to_s}_#{sid.to_slug}.jpg"
+			size['local-source'] = file
 			# filename[1..-1] need to trim / in path, otherwise wants to save to / root
-			download_photo(url,filename[1..-1])
+			download_photo(url,file[1..-1])
 		end
 	end
 

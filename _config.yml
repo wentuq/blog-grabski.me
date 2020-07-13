@@ -68,3 +68,7 @@ exclude:
    - yaml.rb
    - script.sh
    - flickraw-cached*
+   - '*.code-workspace'
+   - tmp.rb
+   
+

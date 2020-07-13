@@ -8,14 +8,11 @@ require 'aws-sdk'
 require 'date'
 require 'pry'
 
-aws_access_key = ENV['AWS_ACCESS_KEY_ID']
-aws_secret_key = ENV['AWS_SECRET_ACCESS_KEY']
-cf_dist_id     = ENV['CLOUDFRONT_DISTRIBUTION_ID']
+cf_dist_id = ENV['CLOUDFRONT_DISTRIBUTION_ID']
 
-if [aws_secret_key, aws_access_key, cf_dist_id].include?(nil)
+if [cf_dist_id].include?(nil)
   abort 'usage: AWS_SECRET_ACCESS_KEY=xxx AWS_ACCESS_KEY_ID=xxx CLOUDFRONT_DISTRIBUTION_ID=xxx ./invalidate_cf.rb "/file1.html" "/file2.html"'
 end
-
 
 files = ARGV
 
@@ -25,12 +22,7 @@ end
 
 puts "### Start invalidating Cloudfront cache ###"
 
-client = Aws::CloudFront::Client.new(
-access_key_id: aws_access_key,
-secret_access_key: aws_secret_key,
-# cloudfront is in Global default region "us-east-1"
-region: "us-east-1"
-)
+client = Aws::CloudFront::Client.new(region: "us-east-1")
 
 resp = client.create_invalidation({
 :distribution_id    => cf_dist_id,
@@ -44,7 +36,6 @@ resp = client.create_invalidation({
 })
 
 puts "invalidation status: #{resp.invalidation.status}"
-
 
 ### Commented lines
 ### waiting till status is Completed, unnecessary
