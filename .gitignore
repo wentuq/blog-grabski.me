@@ -4,3 +4,5 @@
 .idea
 *.code-workspace
 *.env
+*/server-keys/localhost-key.pem
+*/server-keys/localhost.pem
