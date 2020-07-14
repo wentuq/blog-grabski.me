@@ -33,7 +33,7 @@ notifications:
 install:
 - gem install bundler -v 2.0.2
 - bundle install
-script: "./_scripts/script.sh"
+script: "./_tools/script.sh"
 deploy:
   on:
     branch: master
@@ -48,5 +48,5 @@ deploy:
 after_deploy:
   # Note that before_deploy and after_deploy are run before and after every deploy provider, so
   # will run multiple times if there are multiple providers.
-  # Invalidate Cloudfront cache for path "/*" which means all
-  - ./_scripts/invalidate_cf.rb "/*"
+  # Invalidate Cloudfront cache for path "*" which means all
+  - ./_tools/invalidate_cf.rb "*"
