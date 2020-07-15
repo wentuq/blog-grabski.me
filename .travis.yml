@@ -1,3 +1,4 @@
+os: linux
 dist: bionic
 language: ruby
 cache: bundler
@@ -35,6 +36,7 @@ install:
 - bundle install
 script: "./_tools/script.sh"
 deploy:
+  skip_cleanup: true
   on:
     branch: master
   provider: s3
