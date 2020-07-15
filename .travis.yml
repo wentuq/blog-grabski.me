@@ -1,10 +1,10 @@
+dist: bionic
 language: ruby
 cache: bundler
 addons:
   apt:
     packages:
     - libcurl4-openssl-dev
-sudo: false
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
@@ -42,7 +42,6 @@ deploy:
   bucket: $S3_BUCKET
   local_dir: _site
   acl: private
-  skip_cleanup: true
   access_key_id: $AWS_ACCESS_KEY_ID
   secret_access_key: $AWS_SECRET_ACCESS_KEY
 after_deploy:
