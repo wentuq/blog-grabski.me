@@ -1,10 +1,15 @@
 # when using the default proxy server port
 # local_backend: true
 
+# Needs OAuth server from my side
+# backend:
+#   name: github
+#   repo: wentuq/blog-grabski.me # Path to your GitHub repository
+#   branch: master
+
 backend:
-  name: github
-  repo: wentuq/blog-grabski.me # Path to your GitHub repository
-  branch: master
+  name: git-gateway
+
 media_folder: "assets/uploads" # Media files will be stored in the repo under images/uploads
 
 
