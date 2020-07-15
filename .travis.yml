@@ -48,5 +48,5 @@ deploy:
 after_deploy:
   # Note that before_deploy and after_deploy are run before and after every deploy provider, so
   # will run multiple times if there are multiple providers.
-  # Invalidate Cloudfront cache for path "*" which means all
-  - ./_tools/invalidate_cf.rb "*"
+  # Invalidate Cloudfront cache for path "/*" which means all, better is "*" but it doesnt' work
+  - ./_tools/invalidate_cf.rb "/*"
