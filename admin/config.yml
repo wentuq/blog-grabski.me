@@ -1,21 +1,14 @@
 # when using the default proxy server port
 # local_backend: true
 
-<<<<<<< HEAD
 # Needs OAuth server from my side
-=======
-Needs OAuth server from my side
->>>>>>> 234e987aca164f0093a3e9ee8bdcaec6ccab220d
 backend:
   name: github
   repo: wentuq/blog-grabski.me # Path to your GitHub repository
   branch: master
   base_url: https://wentuq-oauth.herokuapp.com/
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 234e987aca164f0093a3e9ee8bdcaec6ccab220d
 # backend:
 #   name: git-gateway
 
