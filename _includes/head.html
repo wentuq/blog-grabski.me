@@ -15,6 +15,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/favicon_io/favicon-32x32.png" | relative_url }}">
   <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/favicon_io/favicon-16x16.png" | relative_url }}">
   <link rel="manifest" href="{{ "/assets/favicon_io/site.webmanifest" | relative_url }}">
-  {% comment %}NetlifyCMS needs to add script in root url in head  {% endcomment %}
+  {% comment %}NetlifyCMS needs to add script in root url in head  
   {% if page.url == "/" %}{% include netlify-identity.html %}{% endif %}
+  {% endcomment %}
 </head>

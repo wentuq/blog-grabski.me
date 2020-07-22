@@ -36,7 +36,7 @@ install:
 - bundle install
 script: "./_tools/script.sh"
 deploy:
-  skip_cleanup: true
+  skip_cleanup: true` `
   on:
     branch: master
   provider: s3
