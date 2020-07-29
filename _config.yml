@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Marcin Grabski
-email: marcin (at) grabski.me
+email: marcin at grabski dot me
 description: >- # this means to ignore newlines until "baseurl:"
    Another human being. Life is an experiment.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -44,6 +44,12 @@ defaults:
       layout: "photo_set"
       photos_license: https://creativecommons.org/licenses/by/4.0/
 
+
+compress_html:
+  clippings: all
+  comments:  all
+  endings:   all
+      
 
 keep_files:
    - node_modules/lightgallery.js/

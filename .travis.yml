@@ -36,7 +36,6 @@ install:
 - bundle install
 script: "./_tools/script.sh"
 deploy:
-  skip_cleanup: true` `
   on:
     branch: master
   provider: s3
@@ -46,6 +45,8 @@ deploy:
   acl: private
   access_key_id: $AWS_ACCESS_KEY_ID
   secret_access_key: $AWS_SECRET_ACCESS_KEY
+  cache_control: "max-age=31536000"
+  skip_cleanup: true
 after_deploy:
   # Note that before_deploy and after_deploy are run before and after every deploy provider, so
   # will run multiple times if there are multiple providers.
