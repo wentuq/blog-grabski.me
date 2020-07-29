@@ -2,7 +2,14 @@
 .sass-cache
 .jekyll-metadata
 .idea
+
+# vscode workspace
 *.code-workspace
+
+# ignore dotenv direnv
+*.envrc
 *.env
+
+# ssl server keys
 */server-keys/localhost-key.pem
 */server-keys/localhost.pem
