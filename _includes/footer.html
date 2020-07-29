@@ -8,14 +8,14 @@
         <ul class="contact-list">
           <li>
             {% if site.author %}
-              {{ site.author | escape }}
+            {{ site.author | escape }}
             {% else %}
-              {{ site.title | escape }}
+            {{ site.title | escape }}
             {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
+          </li>
+          {% if site.email %}
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {% endif %}
         </ul>
       </div>
 
@@ -26,14 +26,14 @@
           <li><a href="https://www.flickr.com/photos/wentuq/"><i class='icon icon-flickr'></i>flickr</a></li>
           <li><a href="https://www.instagram.com/grabski.me/"><i class='icon icon-instagram'></i>instagram</a></li>
           <li><a href="https://github.com/wentuq"><i class='icon icon-github-circled'></i>github</a></li>
-          
+
         </ul>
       </div>
 
       <div class="footer-col footer-col-3">
-          {% if page.photos_license %}
-            {% include photos_license.html %}
-          {% endif %}
+        {% if page.photos_license %}
+        {% include photos_license.html %}
+        {% endif %}
         <p>{{ site.description | escape }}</p>
 
       </div>
@@ -42,18 +42,3 @@
   </div>
 
 </footer>
-{% comment %}
-{% if page.url == "/" %}
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>
-{% endif %}
-{% endcomment %}
