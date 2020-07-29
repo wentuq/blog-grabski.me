@@ -4,18 +4,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta name="description"
+    content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}"
+    href="{{ "/feed.xml" | relative_url }}">
   <link href="/assets/fontello/css/fontello.css" rel="stylesheet">
-  <link type="text/css" rel="stylesheet" href="{{ "/lightgallery.js/dist/css/lightgallery.min.css" | relative_url }}" />
+  <link type="text/css" rel="stylesheet"
+    href="{{ "/js/lightgallery.js/dist/css/lightgallery.min.css" | relative_url }}" />
   <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/favicon_io/apple-touch-icon.png" | relative_url }}">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/favicon_io/favicon-32x32.png" | relative_url }}">
   <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/favicon_io/favicon-16x16.png" | relative_url }}">
   <link rel="manifest" href="{{ "/assets/favicon_io/site.webmanifest" | relative_url }}">
-  {% comment %}NetlifyCMS needs to add script in root url in head  
-  {% if page.url == "/" %}{% include netlify-identity.html %}{% endif %}
-  {% endcomment %}
 </head>
