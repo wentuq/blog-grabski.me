@@ -1,3 +1,5 @@
+
+
 # Configuration of grabski.me
 
 
@@ -33,3 +35,5 @@ webrick:
   headers:
     Content-Security-Policy: default-src 'self'; connect-src 'self' http://localhost:8081 ;img-src 'self' ; script-src 'self' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; font-src 'self' ; manifest-src 'self' ;
 ```
+
+[![Build Status](https://travis-ci.org/wentuq/blog-grabski.me.svg?branch=master)](https://travis-ci.org/wentuq/blog-grabski.me)

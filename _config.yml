@@ -70,7 +70,7 @@ exclude:
    - vendor/cache/
    - vendor/gems/
    - vendor/ruby/
-   - photosets.txt
+   - photosets.yml
    - '*.code-workspace'
    - README.md
    

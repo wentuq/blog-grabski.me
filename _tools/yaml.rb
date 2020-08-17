@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 # encoding: utf-8
 
-### FLICKR API environment variables in main dir ~/.env
+### FLICKR API environment variables in main dir ~/.envrc
 ### Scripts that fetches photosets using Flickr API and download photos
 ### in photosets to assets/photos
 ### Files used: 
@@ -150,7 +150,7 @@ class FlickrSet
 
 	def get_photos(user_id, set_id)
 		# extra queries to api
-    # a lot of available extras  are not documented in official api
+        # a lot of available extras  are not documented in official api
 		extras = "last_update, date_upload, date_taken, description, url_sq, url_q, url_t, url_s, url_n, url_m, url_z, url_c, url_l, url_h, url_k, url_o"
 		return flickr.photosets.getPhotos(:user_id => user_id,:photoset_id => set_id, :extras => extras)
 	end
@@ -273,9 +273,8 @@ class Sync
 
 	def read_photosets(photosets_file)
 		args = []
-		File.open(photosets_file).each do |line|
-			args.push(line.strip.to_i)
-		end
+		tmp = YAML::load(File.open(photosets_file))
+		args = args + tmp['photosets']
 		return args
 	end
 
@@ -293,7 +292,7 @@ class Sync
 end
 
 yaml_file = "_data/photos.yml"
-photosets_file = "photosets.txt"
+photosets_file = "photosets.yml"
 
 #begin
 	sync = Sync.new(user_id, photosets_file,yaml_file)
