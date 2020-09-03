@@ -33,7 +33,7 @@ collections:
 # general permalink for posts
 # Rather than typing permalink: /:categories/:year/:month/:day/:title/
 # you can just type permalink: pretty
-permalink: pretty
+permalink: /posts/:year/:month/:title/
 
 defaults:
   - scope:
@@ -52,7 +52,7 @@ compress_html:
       
 
 keep_files:
-   - node_modules/lightgallery.js/
+#   - node_modules/lightgallery.js/
 
 header_pages:
   - posts_index.md

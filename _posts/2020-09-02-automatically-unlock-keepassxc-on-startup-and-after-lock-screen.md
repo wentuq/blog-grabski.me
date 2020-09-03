@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automatically unlock KeepassXC on startup and after lock screen
-categories: tech, linux
+categories: tech linux
 date: 2020-09-02T19:10:45.766Z
 thumbnail: /assets/uploads/keepassxc-lock.png
 ---
@@ -25,7 +25,8 @@ Execute in terminal:
 
 Attention! Change angle brackets accordingly to your setup.
 
-Based on this gist[^1] execute:
+Based on [this gist](https://gist.github.com/dAnjou/b99f55de34b90246f381e71e3c8f9262 "Automatically unlock KeePass database with GNOME Keyring") execute:
+
 ```
 $secret-tool store --label="KeePass <database_name>" keepass <database_name>
 ```
@@ -198,7 +199,3 @@ It's easy to get our password in plaintext while we are logged in, just type in 
 To delete our password stored in secret-tool we execute `secret-tool clear keepass <dabase_name>`
 
 You can see more records in GNOME keyring using [Seahorse](https://wiki.gnome.org/Apps/Seahorse).
- 
-## Reference
-
-[^1]: [Automatically unlock KeePass database with GNOME Keyring](https://gist.github.com/dAnjou/b99f55de34b90246f381e71e3c8f9262)

@@ -2,7 +2,7 @@
 layout: post
 title:  "How to properly setup secure DNS using dnscrypt-proxy on Ubuntu"
 date:   2020-07-09 01:03:00 +0200
-categories: jekyll update
+categories: tech linux
 ---
 
 ## Introduction

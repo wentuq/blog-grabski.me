@@ -9,14 +9,20 @@ backend:
   base_url: https://wentuq-oauth.herokuapp.com/
 
 
+  commit_messages:
+#    create: Create {{collection}} “{{slug}}”
+#    update: Update {{collection}} “{{slug}}”
+#    delete: Delete {{collection}} “{{slug}}”
+    uploadMedia: Upload “{{path}} [skip ci]”
+    deleteMedia: Delete “{{path}} [skip ci]”
 # backend:
 #   name: git-gateway
 
 media_folder: "assets/uploads" # Media files will be stored in the repo under images/uploads
 
 collections:
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog" # Used in the UI
+  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+    label: "Posts" # Used in the UI
     folder: "_posts/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -25,7 +31,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Categories", name: "categories", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image" , required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
