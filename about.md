@@ -5,9 +5,9 @@ permalink: /about/
 ---
 I was born and raised in Poland. Studied in Krakow. For last few years I'm trying to connect working and passion for travelling.
 
- I’m currently living in Krakow.
+I’m currently living in Krakow.
 
-Lover of [couchsurfing](https://www.couchsurfing.com/) idea, sleeping in tent and travelling on a shoestring.
+Lover of [couchsurfing](https://www.couchsurfing.com/) idea, sleeping in a tent and travelling on a shoestring.
 
 In last two years I visited Central America for 6 months in total.
 
@@ -21,4 +21,4 @@ For more than 13 years I'm inlineskating.
 Currently shooting with Sony A6000 and few lenses.
 
 #### About website
-Website uses [Jekyll - static site generator](https://jekyllrb.com/) and [flickr api](https://www.flickr.com/services/api/) to fetch photos from  [selected flickr albums](https://www.flickr.com/photos/wentuq/sets/). Source code available on github.
+Website  uses [Jekyll - static site generator](https://jekyllrb.com/) and [flickr api](https://www.flickr.com/services/api/) to fetch photos from  [selected flickr albums](https://www.flickr.com/photos/wentuq/sets/). Source code available on [github](https://github.com/wentuq/blog-grabski.me).

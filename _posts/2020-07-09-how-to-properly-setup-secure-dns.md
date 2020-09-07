@@ -153,14 +153,14 @@ wifi.scan-rand-mac-address=yes
 
 ```
 
-### Setting up /etc/resolv.conf
+### Setting up /etc/resolv.conf[^4]
 
 
 Now the most problematic issue. Because we want to make sure that no matter which connection we are going to use, WLAN (different networks) or LAN we always want to have dnscrypt-proxy working. The trouble is that many system apps/daemons are trying to modify `/etc/resolv.conf`
 
 For example:
 * resolvconf
-* systemd-resolved - [**!four!** modes of handling](https://www.freedesktop.org/software/systemd/man/systemd-resolved.service.html) `/etc/resolv.conf`
+* systemd-resolved - [**four** modes of handling](https://www.freedesktop.org/software/systemd/man/systemd-resolved.service.html) `/etc/resolv.conf`
 * dhcpd
 * NetworkManager
 
@@ -486,3 +486,4 @@ fi
 [^1]: [ESNI](https://en.wikipedia.org/wiki/Server_Name_Indication#Encrypted_SNI_(ESNI)) - Encrypted Server Name Indication - in future is going to be replaced by ECH, Firefox and cloudflare implements [v1 of internet draft](https://tools.ietf.org/html/draft-ietf-tls-esni-01) more: on [cloudflare](https://www.cloudflare.com/ssl/encrypted-sni/) and [firefox](https://blog.mozilla.org/security/2018/10/18/encrypted-sni-comes-to-firefox-nightly/), [check if you encrypt SNI](https://www.cloudflare.com/ssl/encrypted-sni/)
 [^2]: [DoH](https://en.wikipedia.org/wiki/DNS_over_HTTPS) - DNS over HTTPS, one of the solutions to encrypt DNS, other is DoT (DNS over TLS) which is internet standards but it's easier to block by internet providers, 
 [^3]: [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) there are few installation guides, ex. for [Linux](https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Installation-linux) and for [Ubuntu](https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Installation-on-Debian-and-Ubuntu), for Ubuntu I still recommend to follow general linux guide.
+[^4]: [resolv.conf configuration](https://www.ctrl.blog/entry/resolvconf-tutorial.html) - if something still overwrites yours resolv.conf check this article
