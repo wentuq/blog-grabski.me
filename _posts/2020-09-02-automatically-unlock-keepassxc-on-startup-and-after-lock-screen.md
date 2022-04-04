@@ -5,7 +5,10 @@ categories: tech linux
 date: 2020-09-02T19:10:45.766Z
 thumbnail: /assets/uploads/keepassxc-lock.png
 ---
-I will be using Ubuntu 20.04 and KeepassXC 2.6.1 but this guide should work for any GNOME desktop.
+I will be using Ubuntu 20.04 and KeepassXC 2.7.0 but this guide should work for any GNOME desktop.
+
+Note: From KeepassXC 2.7.0, developers [changed the dbus interface](https://github.com/keepassxreboot/keepassxc/pull/7523) so it's more consistent now.
+I updated scripts accordingly.
 
 To securely store KeepassXC main database password we will use `secret-tool` from package `libsecret-tools`. Using this tool we make sure that we don't store our password for KeepassXC in plaintext somewhere in our system.
 
@@ -56,7 +59,7 @@ Content of `keepassxc-unlock` - script gets a db password from secret-tool and u
 tmp_passwd=$(secret-tool lookup keepass <dabase_name>)
 database='<path-to-your-db>'
 keyfile='<path-to your-keyfile>'
-dbus-send --print-reply --dest=org.keepassxc.KeePassXC.MainWindow /keepassxc org.keepassxc.MainWindow.openDatabase \
+dbus-send --print-reply --dest=org.keepassxc.KeePassXC.MainWindow /keepassxc org.keepassxc.KeePassXC.MainWindow.openDatabase \
 string:$database string:$tmp_passwd string:$keyfile
 ```
 
@@ -65,7 +68,7 @@ string:$database string:$tmp_passwd string:$keyfile
 Content of `keepassxc-lock` - we just send a message through d-bus to lock db.
 ```
 #!/bin/bash
-dbus-send --print-reply --dest=org.keepassxc.KeePassXC.MainWindow /keepassxc org.keepassxc.MainWindow.lockAllDatabases
+dbus-send --print-reply --dest=org.keepassxc.KeePassXC.MainWindow /keepassxc org.keepassxc.KeePassXC.MainWindow.lockAllDatabases
 ```
 
 ### keepassxc-startup
@@ -199,3 +202,6 @@ It's easy to get our password in plaintext while we are logged in, just type in 
 To delete our password stored in secret-tool we execute `secret-tool clear keepass <dabase_name>`
 
 You can see more records in GNOME keyring using [Seahorse](https://wiki.gnome.org/Apps/Seahorse).
+
+
+Updated on 04.04.2022
